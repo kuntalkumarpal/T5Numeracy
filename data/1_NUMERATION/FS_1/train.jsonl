@@ -1,0 +1,917 @@
+{"text": "What is three thousand eighty four ?", "magnitude": 4, "label": "3084", "split_label": "3 0 8 4"}
+{"text": "What is three thousand four hundred eleven ?", "magnitude": 4, "label": "3411", "split_label": "3 4 1 1"}
+{"text": "What is one thousand eighty five ?", "magnitude": 4, "label": "1085", "split_label": "1 0 8 5"}
+{"text": "What is one thousand fifty four ?", "magnitude": 4, "label": "1054", "split_label": "1 0 5 4"}
+{"text": "What is one thousand four hundred forty one ?", "magnitude": 4, "label": "1441", "split_label": "1 4 4 1"}
+{"text": "What is six thousand eighteen ?", "magnitude": 4, "label": "6018", "split_label": "6 0 1 8"}
+{"text": "What is eight thousand two hundred seventy ?", "magnitude": 4, "label": "8270", "split_label": "8 2 7 0"}
+{"text": "What is nine thousand eight hundred seventy nine ?", "magnitude": 4, "label": "9879", "split_label": "9 8 7 9"}
+{"text": "What is four thousand thirty one ?", "magnitude": 4, "label": "4031", "split_label": "4 0 3 1"}
+{"text": "What is three thousand one hundred thirty three ?", "magnitude": 4, "label": "3133", "split_label": "3 1 3 3"}
+{"text": "What is six thousand seventy ?", "magnitude": 4, "label": "6070", "split_label": "6 0 7 0"}
+{"text": "What is two thousand one hundred ten ?", "magnitude": 4, "label": "2110", "split_label": "2 1 1 0"}
+{"text": "What is seven thousand four hundred thirty eight ?", "magnitude": 4, "label": "7438", "split_label": "7 4 3 8"}
+{"text": "What is five thousand eighteen ?", "magnitude": 4, "label": "5018", "split_label": "5 0 1 8"}
+{"text": "What is five thousand six hundred seventy seven ?", "magnitude": 4, "label": "5677", "split_label": "5 6 7 7"}
+{"text": "What is nine thousand eight hundred eighty ?", "magnitude": 4, "label": "9880", "split_label": "9 8 8 0"}
+{"text": "What is two thousand six hundred eighty seven ?", "magnitude": 4, "label": "2687", "split_label": "2 6 8 7"}
+{"text": "What is five thousand three hundred seventy seven ?", "magnitude": 4, "label": "5377", "split_label": "5 3 7 7"}
+{"text": "What is six thousand seventy three ?", "magnitude": 4, "label": "6073", "split_label": "6 0 7 3"}
+{"text": "What is three thousand thirty eight ?", "magnitude": 4, "label": "3038", "split_label": "3 0 3 8"}
+{"text": "What is zero ?", "magnitude": 1, "label": "0", "split_label": "0"}
+{"text": "What is three thousand four hundred fifty eight ?", "magnitude": 4, "label": "3458", "split_label": "3 4 5 8"}
+{"text": "What is three thousand two hundred six ?", "magnitude": 4, "label": "3206", "split_label": "3 2 0 6"}
+{"text": "What is four thousand four hundred sixty ?", "magnitude": 4, "label": "4460", "split_label": "4 4 6 0"}
+{"text": "What is five thousand ninety two ?", "magnitude": 4, "label": "5092", "split_label": "5 0 9 2"}
+{"text": "What is two thousand nine hundred twelve ?", "magnitude": 4, "label": "2912", "split_label": "2 9 1 2"}
+{"text": "What is eight thousand three hundred sixty one ?", "magnitude": 4, "label": "8361", "split_label": "8 3 6 1"}
+{"text": "What is four thousand forty ?", "magnitude": 4, "label": "4040", "split_label": "4 0 4 0"}
+{"text": "What is seven thousand fifty four ?", "magnitude": 4, "label": "7054", "split_label": "7 0 5 4"}
+{"text": "What is four thousand seven hundred fifty four ?", "magnitude": 4, "label": "4754", "split_label": "4 7 5 4"}
+{"text": "What is four hundred seventy seven ?", "magnitude": 3, "label": "477", "split_label": "4 7 7"}
+{"text": "What is nine thousand nine ?", "magnitude": 4, "label": "9009", "split_label": "9 0 0 9"}
+{"text": "What is seven thousand twelve ?", "magnitude": 4, "label": "7012", "split_label": "7 0 1 2"}
+{"text": "What is one thousand ten ?", "magnitude": 4, "label": "1010", "split_label": "1 0 1 0"}
+{"text": "What is three hundred three ?", "magnitude": 3, "label": "303", "split_label": "3 0 3"}
+{"text": "What is five thousand six hundred forty nine ?", "magnitude": 4, "label": "5649", "split_label": "5 6 4 9"}
+{"text": "What is six thousand nineteen ?", "magnitude": 4, "label": "6019", "split_label": "6 0 1 9"}
+{"text": "What is four thousand twenty two ?", "magnitude": 4, "label": "4022", "split_label": "4 0 2 2"}
+{"text": "What is eight thousand ninety five ?", "magnitude": 4, "label": "8095", "split_label": "8 0 9 5"}
+{"text": "What is four thousand four hundred eighty seven ?", "magnitude": 4, "label": "4487", "split_label": "4 4 8 7"}
+{"text": "What is three thousand eighty nine ?", "magnitude": 4, "label": "3089", "split_label": "3 0 8 9"}
+{"text": "What is three hundred eighteen ?", "magnitude": 3, "label": "318", "split_label": "3 1 8"}
+{"text": "What is one thousand two hundred forty five ?", "magnitude": 4, "label": "1245", "split_label": "1 2 4 5"}
+{"text": "What is two thousand five hundred sixty nine ?", "magnitude": 4, "label": "2569", "split_label": "2 5 6 9"}
+{"text": "What is four thousand one hundred twenty seven ?", "magnitude": 4, "label": "4127", "split_label": "4 1 2 7"}
+{"text": "What is one thousand ninety eight ?", "magnitude": 4, "label": "1098", "split_label": "1 0 9 8"}
+{"text": "What is one thousand twenty one ?", "magnitude": 4, "label": "1021", "split_label": "1 0 2 1"}
+{"text": "What is four thousand sixty six ?", "magnitude": 4, "label": "4066", "split_label": "4 0 6 6"}
+{"text": "What is three thousand nine hundred sixty nine ?", "magnitude": 4, "label": "3969", "split_label": "3 9 6 9"}
+{"text": "What is seven thousand five hundred forty nine ?", "magnitude": 4, "label": "7549", "split_label": "7 5 4 9"}
+{"text": "What is three thousand nine hundred fifty two ?", "magnitude": 4, "label": "3952", "split_label": "3 9 5 2"}
+{"text": "What is eight thousand seventeen ?", "magnitude": 4, "label": "8017", "split_label": "8 0 1 7"}
+{"text": "What is eight thousand ?", "magnitude": 4, "label": "8000", "split_label": "8 0 0 0"}
+{"text": "What is nine thousand fourteen ?", "magnitude": 4, "label": "9014", "split_label": "9 0 1 4"}
+{"text": "What is two thousand eighty four ?", "magnitude": 4, "label": "2084", "split_label": "2 0 8 4"}
+{"text": "What is six hundred thirty ?", "magnitude": 3, "label": "630", "split_label": "6 3 0"}
+{"text": "What is two hundred eleven ?", "magnitude": 3, "label": "211", "split_label": "2 1 1"}
+{"text": "What is four thousand eighty two ?", "magnitude": 4, "label": "4082", "split_label": "4 0 8 2"}
+{"text": "What is three thousand sixteen ?", "magnitude": 4, "label": "3016", "split_label": "3 0 1 6"}
+{"text": "What is four thousand twenty three ?", "magnitude": 4, "label": "4023", "split_label": "4 0 2 3"}
+{"text": "What is one hundred seventy three ?", "magnitude": 3, "label": "173", "split_label": "1 7 3"}
+{"text": "What is three ?", "magnitude": 1, "label": "3", "split_label": "3"}
+{"text": "What is two thousand seventy eight ?", "magnitude": 4, "label": "2078", "split_label": "2 0 7 8"}
+{"text": "What is two thousand eighty ?", "magnitude": 4, "label": "2080", "split_label": "2 0 8 0"}
+{"text": "What is one thousand eleven ?", "magnitude": 4, "label": "1011", "split_label": "1 0 1 1"}
+{"text": "What is three thousand six hundred thirty nine ?", "magnitude": 4, "label": "3639", "split_label": "3 6 3 9"}
+{"text": "What is five thousand eighty five ?", "magnitude": 4, "label": "5085", "split_label": "5 0 8 5"}
+{"text": "What is one thousand six hundred eleven ?", "magnitude": 4, "label": "1611", "split_label": "1 6 1 1"}
+{"text": "What is nine thousand one hundred twelve ?", "magnitude": 4, "label": "9112", "split_label": "9 1 1 2"}
+{"text": "What is three thousand seven hundred eighty five ?", "magnitude": 4, "label": "3785", "split_label": "3 7 8 5"}
+{"text": "What is eight thousand four hundred eighty eight ?", "magnitude": 4, "label": "8488", "split_label": "8 4 8 8"}
+{"text": "What is five thousand fifty eight ?", "magnitude": 4, "label": "5058", "split_label": "5 0 5 8"}
+{"text": "What is fifty ?", "magnitude": 2, "label": "50", "split_label": "5 0"}
+{"text": "What is eight thousand six hundred fifty eight ?", "magnitude": 4, "label": "8658", "split_label": "8 6 5 8"}
+{"text": "What is five thousand fifty six ?", "magnitude": 4, "label": "5056", "split_label": "5 0 5 6"}
+{"text": "What is seven thousand twenty three ?", "magnitude": 4, "label": "7023", "split_label": "7 0 2 3"}
+{"text": "What is one thousand forty eight ?", "magnitude": 4, "label": "1048", "split_label": "1 0 4 8"}
+{"text": "What is one thousand four ?", "magnitude": 4, "label": "1004", "split_label": "1 0 0 4"}
+{"text": "What is five thousand seventy six ?", "magnitude": 4, "label": "5076", "split_label": "5 0 7 6"}
+{"text": "What is seven thousand ninety seven ?", "magnitude": 4, "label": "7097", "split_label": "7 0 9 7"}
+{"text": "What is one thousand ?", "magnitude": 4, "label": "1000", "split_label": "1 0 0 0"}
+{"text": "What is eight thousand fifty seven ?", "magnitude": 4, "label": "8057", "split_label": "8 0 5 7"}
+{"text": "What is four thousand two hundred ?", "magnitude": 4, "label": "4200", "split_label": "4 2 0 0"}
+{"text": "What is two thousand forty six ?", "magnitude": 4, "label": "2046", "split_label": "2 0 4 6"}
+{"text": "What is seven thousand four ?", "magnitude": 4, "label": "7004", "split_label": "7 0 0 4"}
+{"text": "What is nine thousand fifty eight ?", "magnitude": 4, "label": "9058", "split_label": "9 0 5 8"}
+{"text": "What is two thousand eight hundred ninety eight ?", "magnitude": 4, "label": "2898", "split_label": "2 8 9 8"}
+{"text": "What is five thousand nine hundred ninety five ?", "magnitude": 4, "label": "5995", "split_label": "5 9 9 5"}
+{"text": "What is seven thousand eight hundred seventy six ?", "magnitude": 4, "label": "7876", "split_label": "7 8 7 6"}
+{"text": "What is six thousand ninety two ?", "magnitude": 4, "label": "6092", "split_label": "6 0 9 2"}
+{"text": "What is eight thousand seven hundred forty ?", "magnitude": 4, "label": "8740", "split_label": "8 7 4 0"}
+{"text": "What is nine thousand seventy nine ?", "magnitude": 4, "label": "9079", "split_label": "9 0 7 9"}
+{"text": "What is eight thousand five hundred forty four ?", "magnitude": 4, "label": "8544", "split_label": "8 5 4 4"}
+{"text": "What is two thousand four ?", "magnitude": 4, "label": "2004", "split_label": "2 0 0 4"}
+{"text": "What is six thousand fifty nine ?", "magnitude": 4, "label": "6059", "split_label": "6 0 5 9"}
+{"text": "What is nine thousand twenty six ?", "magnitude": 4, "label": "9026", "split_label": "9 0 2 6"}
+{"text": "What is six thousand twenty nine ?", "magnitude": 4, "label": "6029", "split_label": "6 0 2 9"}
+{"text": "What is four thousand five hundred fifty seven ?", "magnitude": 4, "label": "4557", "split_label": "4 5 5 7"}
+{"text": "What is six thousand seven hundred forty seven ?", "magnitude": 4, "label": "6747", "split_label": "6 7 4 7"}
+{"text": "What is seven hundred ninety one ?", "magnitude": 3, "label": "791", "split_label": "7 9 1"}
+{"text": "What is eight hundred sixty ?", "magnitude": 3, "label": "860", "split_label": "8 6 0"}
+{"text": "What is eight thousand ninety ?", "magnitude": 4, "label": "8090", "split_label": "8 0 9 0"}
+{"text": "What is six thousand sixty seven ?", "magnitude": 4, "label": "6067", "split_label": "6 0 6 7"}
+{"text": "What is eight thousand forty eight ?", "magnitude": 4, "label": "8048", "split_label": "8 0 4 8"}
+{"text": "What is eight thousand eleven ?", "magnitude": 4, "label": "8011", "split_label": "8 0 1 1"}
+{"text": "What is seventeen ?", "magnitude": 2, "label": "17", "split_label": "1 7"}
+{"text": "What is one thousand five hundred fifty five ?", "magnitude": 4, "label": "1555", "split_label": "1 5 5 5"}
+{"text": "What is seven thousand three hundred ninety two ?", "magnitude": 4, "label": "7392", "split_label": "7 3 9 2"}
+{"text": "What is seven thousand four hundred forty three ?", "magnitude": 4, "label": "7443", "split_label": "7 4 4 3"}
+{"text": "What is four thousand twenty six ?", "magnitude": 4, "label": "4026", "split_label": "4 0 2 6"}
+{"text": "What is six thousand three hundred five ?", "magnitude": 4, "label": "6305", "split_label": "6 3 0 5"}
+{"text": "What is four thousand seven hundred seventy five ?", "magnitude": 4, "label": "4775", "split_label": "4 7 7 5"}
+{"text": "What is four thousand eight ?", "magnitude": 4, "label": "4008", "split_label": "4 0 0 8"}
+{"text": "What is one thousand two ?", "magnitude": 4, "label": "1002", "split_label": "1 0 0 2"}
+{"text": "What is three thousand ninety six ?", "magnitude": 4, "label": "3096", "split_label": "3 0 9 6"}
+{"text": "What is four thousand thirteen ?", "magnitude": 4, "label": "4013", "split_label": "4 0 1 3"}
+{"text": "What is three thousand sixty five ?", "magnitude": 4, "label": "3065", "split_label": "3 0 6 5"}
+{"text": "What is one thousand nine hundred fifty nine ?", "magnitude": 4, "label": "1959", "split_label": "1 9 5 9"}
+{"text": "What is nine thousand thirty three ?", "magnitude": 4, "label": "9033", "split_label": "9 0 3 3"}
+{"text": "What is six thousand three ?", "magnitude": 4, "label": "6003", "split_label": "6 0 0 3"}
+{"text": "What is eight thousand one hundred seventy ?", "magnitude": 4, "label": "8170", "split_label": "8 1 7 0"}
+{"text": "What is one thousand one hundred twenty nine ?", "magnitude": 4, "label": "1129", "split_label": "1 1 2 9"}
+{"text": "What is four thousand forty four ?", "magnitude": 4, "label": "4044", "split_label": "4 0 4 4"}
+{"text": "What is three thousand six hundred sixty eight ?", "magnitude": 4, "label": "3668", "split_label": "3 6 6 8"}
+{"text": "What is four thousand eighty five ?", "magnitude": 4, "label": "4085", "split_label": "4 0 8 5"}
+{"text": "What is nine thousand ninety two ?", "magnitude": 4, "label": "9092", "split_label": "9 0 9 2"}
+{"text": "What is seven thousand nine hundred fifty one ?", "magnitude": 4, "label": "7951", "split_label": "7 9 5 1"}
+{"text": "What is one thousand forty seven ?", "magnitude": 4, "label": "1047", "split_label": "1 0 4 7"}
+{"text": "What is five thousand six hundred ninety one ?", "magnitude": 4, "label": "5691", "split_label": "5 6 9 1"}
+{"text": "What is three thousand thirty five ?", "magnitude": 4, "label": "3035", "split_label": "3 0 3 5"}
+{"text": "What is seven hundred sixty six ?", "magnitude": 3, "label": "766", "split_label": "7 6 6"}
+{"text": "What is four hundred twenty six ?", "magnitude": 3, "label": "426", "split_label": "4 2 6"}
+{"text": "What is three thousand two hundred sixty four ?", "magnitude": 4, "label": "3264", "split_label": "3 2 6 4"}
+{"text": "What is two thousand twenty four ?", "magnitude": 4, "label": "2024", "split_label": "2 0 2 4"}
+{"text": "What is four thousand one hundred eighty two ?", "magnitude": 4, "label": "4182", "split_label": "4 1 8 2"}
+{"text": "What is seven thousand ninety eight ?", "magnitude": 4, "label": "7098", "split_label": "7 0 9 8"}
+{"text": "What is eighty one ?", "magnitude": 2, "label": "81", "split_label": "8 1"}
+{"text": "What is ninety six ?", "magnitude": 2, "label": "96", "split_label": "9 6"}
+{"text": "What is one thousand seven hundred eighty one ?", "magnitude": 4, "label": "1781", "split_label": "1 7 8 1"}
+{"text": "What is five thousand three hundred seventeen ?", "magnitude": 4, "label": "5317", "split_label": "5 3 1 7"}
+{"text": "What is five thousand five hundred nineteen ?", "magnitude": 4, "label": "5519", "split_label": "5 5 1 9"}
+{"text": "What is two thousand sixty ?", "magnitude": 4, "label": "2060", "split_label": "2 0 6 0"}
+{"text": "What is two thousand five hundred fifty ?", "magnitude": 4, "label": "2550", "split_label": "2 5 5 0"}
+{"text": "What is eight thousand four hundred eighty one ?", "magnitude": 4, "label": "8481", "split_label": "8 4 8 1"}
+{"text": "What is seven thousand two hundred twenty five ?", "magnitude": 4, "label": "7225", "split_label": "7 2 2 5"}
+{"text": "What is five thousand six hundred sixty seven ?", "magnitude": 4, "label": "5667", "split_label": "5 6 6 7"}
+{"text": "What is eight thousand six hundred sixty six ?", "magnitude": 4, "label": "8666", "split_label": "8 6 6 6"}
+{"text": "What is eight hundred eleven ?", "magnitude": 3, "label": "811", "split_label": "8 1 1"}
+{"text": "What is five thousand eighty six ?", "magnitude": 4, "label": "5086", "split_label": "5 0 8 6"}
+{"text": "What is nine thousand five hundred eight ?", "magnitude": 4, "label": "9508", "split_label": "9 5 0 8"}
+{"text": "What is four thousand five hundred twenty four ?", "magnitude": 4, "label": "4524", "split_label": "4 5 2 4"}
+{"text": "What is six ?", "magnitude": 1, "label": "6", "split_label": "6"}
+{"text": "What is four thousand ninety one ?", "magnitude": 4, "label": "4091", "split_label": "4 0 9 1"}
+{"text": "What is seven thousand five hundred fifty three ?", "magnitude": 4, "label": "7553", "split_label": "7 5 5 3"}
+{"text": "What is two thousand four hundred eighty two ?", "magnitude": 4, "label": "2482", "split_label": "2 4 8 2"}
+{"text": "What is one thousand one hundred ninety four ?", "magnitude": 4, "label": "1194", "split_label": "1 1 9 4"}
+{"text": "What is eight thousand thirty three ?", "magnitude": 4, "label": "8033", "split_label": "8 0 3 3"}
+{"text": "What is six thousand eleven ?", "magnitude": 4, "label": "6011", "split_label": "6 0 1 1"}
+{"text": "What is nine thousand seventy four ?", "magnitude": 4, "label": "9074", "split_label": "9 0 7 4"}
+{"text": "What is four thousand nine hundred ninety seven ?", "magnitude": 4, "label": "4997", "split_label": "4 9 9 7"}
+{"text": "What is six thousand three hundred forty six ?", "magnitude": 4, "label": "6346", "split_label": "6 3 4 6"}
+{"text": "What is seven thousand thirty four ?", "magnitude": 4, "label": "7034", "split_label": "7 0 3 4"}
+{"text": "What is eight thousand twenty nine ?", "magnitude": 4, "label": "8029", "split_label": "8 0 2 9"}
+{"text": "What is four thousand eighty three ?", "magnitude": 4, "label": "4083", "split_label": "4 0 8 3"}
+{"text": "What is six thousand two hundred three ?", "magnitude": 4, "label": "6203", "split_label": "6 2 0 3"}
+{"text": "What is six thousand nine hundred sixteen ?", "magnitude": 4, "label": "6916", "split_label": "6 9 1 6"}
+{"text": "What is nine thousand seven hundred seven ?", "magnitude": 4, "label": "9707", "split_label": "9 7 0 7"}
+{"text": "What is two thousand eight ?", "magnitude": 4, "label": "2008", "split_label": "2 0 0 8"}
+{"text": "What is four thousand six ?", "magnitude": 4, "label": "4006", "split_label": "4 0 0 6"}
+{"text": "What is eight thousand eight hundred two ?", "magnitude": 4, "label": "8802", "split_label": "8 8 0 2"}
+{"text": "What is eight thousand nine hundred forty nine ?", "magnitude": 4, "label": "8949", "split_label": "8 9 4 9"}
+{"text": "What is five thousand five hundred thirty four ?", "magnitude": 4, "label": "5534", "split_label": "5 5 3 4"}
+{"text": "What is four thousand three hundred forty eight ?", "magnitude": 4, "label": "4348", "split_label": "4 3 4 8"}
+{"text": "What is two thousand four hundred ninety seven ?", "magnitude": 4, "label": "2497", "split_label": "2 4 9 7"}
+{"text": "What is two thousand three hundred forty nine ?", "magnitude": 4, "label": "2349", "split_label": "2 3 4 9"}
+{"text": "What is four thousand fifty ?", "magnitude": 4, "label": "4050", "split_label": "4 0 5 0"}
+{"text": "What is seven thousand nine hundred forty six ?", "magnitude": 4, "label": "7946", "split_label": "7 9 4 6"}
+{"text": "What is one thousand five hundred eighty ?", "magnitude": 4, "label": "1580", "split_label": "1 5 8 0"}
+{"text": "What is nine thousand one hundred two ?", "magnitude": 4, "label": "9102", "split_label": "9 1 0 2"}
+{"text": "What is seven thousand sixty four ?", "magnitude": 4, "label": "7064", "split_label": "7 0 6 4"}
+{"text": "What is nine thousand twenty ?", "magnitude": 4, "label": "9020", "split_label": "9 0 2 0"}
+{"text": "What is six hundred thirty eight ?", "magnitude": 3, "label": "638", "split_label": "6 3 8"}
+{"text": "What is six thousand two hundred twenty ?", "magnitude": 4, "label": "6220", "split_label": "6 2 2 0"}
+{"text": "What is nine thousand fifty four ?", "magnitude": 4, "label": "9054", "split_label": "9 0 5 4"}
+{"text": "What is nine thousand six hundred ninety three ?", "magnitude": 4, "label": "9693", "split_label": "9 6 9 3"}
+{"text": "What is eight thousand five hundred one ?", "magnitude": 4, "label": "8501", "split_label": "8 5 0 1"}
+{"text": "What is six thousand twenty six ?", "magnitude": 4, "label": "6026", "split_label": "6 0 2 6"}
+{"text": "What is two thousand sixty one ?", "magnitude": 4, "label": "2061", "split_label": "2 0 6 1"}
+{"text": "What is one thousand eighty one ?", "magnitude": 4, "label": "1081", "split_label": "1 0 8 1"}
+{"text": "What is eighty ?", "magnitude": 2, "label": "80", "split_label": "8 0"}
+{"text": "What is nine thousand three hundred fifty one ?", "magnitude": 4, "label": "9351", "split_label": "9 3 5 1"}
+{"text": "What is eight thousand fifteen ?", "magnitude": 4, "label": "8015", "split_label": "8 0 1 5"}
+{"text": "What is four ?", "magnitude": 1, "label": "4", "split_label": "4"}
+{"text": "What is six thousand twenty three ?", "magnitude": 4, "label": "6023", "split_label": "6 0 2 3"}
+{"text": "What is seven thousand two hundred sixty one ?", "magnitude": 4, "label": "7261", "split_label": "7 2 6 1"}
+{"text": "What is nine thousand eighty four ?", "magnitude": 4, "label": "9084", "split_label": "9 0 8 4"}
+{"text": "What is three hundred eighty three ?", "magnitude": 3, "label": "383", "split_label": "3 8 3"}
+{"text": "What is one thousand sixty three ?", "magnitude": 4, "label": "1063", "split_label": "1 0 6 3"}
+{"text": "What is six thousand seven hundred eighty two ?", "magnitude": 4, "label": "6782", "split_label": "6 7 8 2"}
+{"text": "What is five thousand five ?", "magnitude": 4, "label": "5005", "split_label": "5 0 0 5"}
+{"text": "What is eight thousand eight ?", "magnitude": 4, "label": "8008", "split_label": "8 0 0 8"}
+{"text": "What is four thousand three hundred thirty ?", "magnitude": 4, "label": "4330", "split_label": "4 3 3 0"}
+{"text": "What is nine thousand eight ?", "magnitude": 4, "label": "9008", "split_label": "9 0 0 8"}
+{"text": "What is four thousand one hundred sixty five ?", "magnitude": 4, "label": "4165", "split_label": "4 1 6 5"}
+{"text": "What is three thousand three hundred fifty seven ?", "magnitude": 4, "label": "3357", "split_label": "3 3 5 7"}
+{"text": "What is six thousand ninety ?", "magnitude": 4, "label": "6090", "split_label": "6 0 9 0"}
+{"text": "What is seven hundred twenty five ?", "magnitude": 3, "label": "725", "split_label": "7 2 5"}
+{"text": "What is three thousand seventy three ?", "magnitude": 4, "label": "3073", "split_label": "3 0 7 3"}
+{"text": "What is seven thousand nine hundred forty eight ?", "magnitude": 4, "label": "7948", "split_label": "7 9 4 8"}
+{"text": "What is seven thousand three hundred fifty ?", "magnitude": 4, "label": "7350", "split_label": "7 3 5 0"}
+{"text": "What is eight thousand seven hundred eighty seven ?", "magnitude": 4, "label": "8787", "split_label": "8 7 8 7"}
+{"text": "What is five thousand five hundred ?", "magnitude": 4, "label": "5500", "split_label": "5 5 0 0"}
+{"text": "What is five thousand four hundred forty nine ?", "magnitude": 4, "label": "5449", "split_label": "5 4 4 9"}
+{"text": "What is one thousand five hundred forty one ?", "magnitude": 4, "label": "1541", "split_label": "1 5 4 1"}
+{"text": "What is seven hundred ?", "magnitude": 3, "label": "700", "split_label": "7 0 0"}
+{"text": "What is two hundred ?", "magnitude": 3, "label": "200", "split_label": "2 0 0"}
+{"text": "What is five thousand twenty one ?", "magnitude": 4, "label": "5021", "split_label": "5 0 2 1"}
+{"text": "What is one thousand nineteen ?", "magnitude": 4, "label": "1019", "split_label": "1 0 1 9"}
+{"text": "What is three thousand thirty four ?", "magnitude": 4, "label": "3034", "split_label": "3 0 3 4"}
+{"text": "What is four thousand nine hundred forty nine ?", "magnitude": 4, "label": "4949", "split_label": "4 9 4 9"}
+{"text": "What is three thousand seven hundred ninety ?", "magnitude": 4, "label": "3790", "split_label": "3 7 9 0"}
+{"text": "What is six thousand one hundred ninety three ?", "magnitude": 4, "label": "6193", "split_label": "6 1 9 3"}
+{"text": "What is nine thousand one hundred forty eight ?", "magnitude": 4, "label": "9148", "split_label": "9 1 4 8"}
+{"text": "What is five thousand forty four ?", "magnitude": 4, "label": "5044", "split_label": "5 0 4 4"}
+{"text": "What is six thousand sixty nine ?", "magnitude": 4, "label": "6069", "split_label": "6 0 6 9"}
+{"text": "What is four thousand seven hundred fifty six ?", "magnitude": 4, "label": "4756", "split_label": "4 7 5 6"}
+{"text": "What is one thousand ninety four ?", "magnitude": 4, "label": "1094", "split_label": "1 0 9 4"}
+{"text": "What is nine thousand three hundred thirty two ?", "magnitude": 4, "label": "9332", "split_label": "9 3 3 2"}
+{"text": "What is nine thousand nine hundred ninety two ?", "magnitude": 4, "label": "9992", "split_label": "9 9 9 2"}
+{"text": "What is three thousand twenty eight ?", "magnitude": 4, "label": "3028", "split_label": "3 0 2 8"}
+{"text": "What is three thousand five ?", "magnitude": 4, "label": "3005", "split_label": "3 0 0 5"}
+{"text": "What is three thousand forty nine ?", "magnitude": 4, "label": "3049", "split_label": "3 0 4 9"}
+{"text": "What is seven thousand three hundred sixty nine ?", "magnitude": 4, "label": "7369", "split_label": "7 3 6 9"}
+{"text": "What is two thousand twenty nine ?", "magnitude": 4, "label": "2029", "split_label": "2 0 2 9"}
+{"text": "What is eight thousand eighty five ?", "magnitude": 4, "label": "8085", "split_label": "8 0 8 5"}
+{"text": "What is six thousand six hundred twenty four ?", "magnitude": 4, "label": "6624", "split_label": "6 6 2 4"}
+{"text": "What is three thousand four hundred eighteen ?", "magnitude": 4, "label": "3418", "split_label": "3 4 1 8"}
+{"text": "What is two thousand one hundred fifty six ?", "magnitude": 4, "label": "2156", "split_label": "2 1 5 6"}
+{"text": "What is four thousand fifty seven ?", "magnitude": 4, "label": "4057", "split_label": "4 0 5 7"}
+{"text": "What is two thousand seventy six ?", "magnitude": 4, "label": "2076", "split_label": "2 0 7 6"}
+{"text": "What is two thousand nine hundred sixteen ?", "magnitude": 4, "label": "2916", "split_label": "2 9 1 6"}
+{"text": "What is nine thousand four hundred seventy six ?", "magnitude": 4, "label": "9476", "split_label": "9 4 7 6"}
+{"text": "What is three thousand nine hundred thirty eight ?", "magnitude": 4, "label": "3938", "split_label": "3 9 3 8"}
+{"text": "What is five thousand four hundred seventy five ?", "magnitude": 4, "label": "5475", "split_label": "5 4 7 5"}
+{"text": "What is eight thousand ninety seven ?", "magnitude": 4, "label": "8097", "split_label": "8 0 9 7"}
+{"text": "What is five thousand four ?", "magnitude": 4, "label": "5004", "split_label": "5 0 0 4"}
+{"text": "What is two thousand one hundred twenty two ?", "magnitude": 4, "label": "2122", "split_label": "2 1 2 2"}
+{"text": "What is seven thousand twenty seven ?", "magnitude": 4, "label": "7027", "split_label": "7 0 2 7"}
+{"text": "What is four thousand seven hundred seventy four ?", "magnitude": 4, "label": "4774", "split_label": "4 7 7 4"}
+{"text": "What is five thousand thirteen ?", "magnitude": 4, "label": "5013", "split_label": "5 0 1 3"}
+{"text": "What is five thousand fifty four ?", "magnitude": 4, "label": "5054", "split_label": "5 0 5 4"}
+{"text": "What is seven thousand five ?", "magnitude": 4, "label": "7005", "split_label": "7 0 0 5"}
+{"text": "What is eight thousand sixty two ?", "magnitude": 4, "label": "8062", "split_label": "8 0 6 2"}
+{"text": "What is four thousand eighty eight ?", "magnitude": 4, "label": "4088", "split_label": "4 0 8 8"}
+{"text": "What is seven thousand nineteen ?", "magnitude": 4, "label": "7019", "split_label": "7 0 1 9"}
+{"text": "What is five thousand twelve ?", "magnitude": 4, "label": "5012", "split_label": "5 0 1 2"}
+{"text": "What is one thousand sixty one ?", "magnitude": 4, "label": "1061", "split_label": "1 0 6 1"}
+{"text": "What is five thousand six hundred thirty ?", "magnitude": 4, "label": "5630", "split_label": "5 6 3 0"}
+{"text": "What is five thousand fifteen ?", "magnitude": 4, "label": "5015", "split_label": "5 0 1 5"}
+{"text": "What is eight thousand thirteen ?", "magnitude": 4, "label": "8013", "split_label": "8 0 1 3"}
+{"text": "What is nine thousand four hundred eighty nine ?", "magnitude": 4, "label": "9489", "split_label": "9 4 8 9"}
+{"text": "What is six thousand three hundred fifty three ?", "magnitude": 4, "label": "6353", "split_label": "6 3 5 3"}
+{"text": "What is five ?", "magnitude": 1, "label": "5", "split_label": "5"}
+{"text": "What is three thousand fifteen ?", "magnitude": 4, "label": "3015", "split_label": "3 0 1 5"}
+{"text": "What is six thousand seven hundred forty one ?", "magnitude": 4, "label": "6741", "split_label": "6 7 4 1"}
+{"text": "What is five thousand five hundred sixty eight ?", "magnitude": 4, "label": "5568", "split_label": "5 5 6 8"}
+{"text": "What is eight thousand nine hundred twenty eight ?", "magnitude": 4, "label": "8928", "split_label": "8 9 2 8"}
+{"text": "What is sixty ?", "magnitude": 2, "label": "60", "split_label": "6 0"}
+{"text": "What is seven thousand three hundred twenty seven ?", "magnitude": 4, "label": "7327", "split_label": "7 3 2 7"}
+{"text": "What is five thousand eight hundred forty four ?", "magnitude": 4, "label": "5844", "split_label": "5 8 4 4"}
+{"text": "What is eight hundred ninety two ?", "magnitude": 3, "label": "892", "split_label": "8 9 2"}
+{"text": "What is three thousand six hundred sixty five ?", "magnitude": 4, "label": "3665", "split_label": "3 6 6 5"}
+{"text": "What is eight hundred sixty three ?", "magnitude": 3, "label": "863", "split_label": "8 6 3"}
+{"text": "What is six thousand thirty nine ?", "magnitude": 4, "label": "6039", "split_label": "6 0 3 9"}
+{"text": "What is two thousand four hundred twenty one ?", "magnitude": 4, "label": "2421", "split_label": "2 4 2 1"}
+{"text": "What is one thousand eighty seven ?", "magnitude": 4, "label": "1087", "split_label": "1 0 8 7"}
+{"text": "What is seven thousand eight hundred twenty three ?", "magnitude": 4, "label": "7823", "split_label": "7 8 2 3"}
+{"text": "What is three thousand thirty two ?", "magnitude": 4, "label": "3032", "split_label": "3 0 3 2"}
+{"text": "What is six thousand five hundred fifty five ?", "magnitude": 4, "label": "6555", "split_label": "6 5 5 5"}
+{"text": "What is three thousand five hundred thirty nine ?", "magnitude": 4, "label": "3539", "split_label": "3 5 3 9"}
+{"text": "What is two thousand eight hundred seventy three ?", "magnitude": 4, "label": "2873", "split_label": "2 8 7 3"}
+{"text": "What is eight thousand eight hundred forty six ?", "magnitude": 4, "label": "8846", "split_label": "8 8 4 6"}
+{"text": "What is nine thousand eight hundred eighty three ?", "magnitude": 4, "label": "9883", "split_label": "9 8 8 3"}
+{"text": "What is nine thousand seventy three ?", "magnitude": 4, "label": "9073", "split_label": "9 0 7 3"}
+{"text": "What is three thousand two hundred ninety four ?", "magnitude": 4, "label": "3294", "split_label": "3 2 9 4"}
+{"text": "What is four thousand ninety six ?", "magnitude": 4, "label": "4096", "split_label": "4 0 9 6"}
+{"text": "What is eight thousand five hundred sixty three ?", "magnitude": 4, "label": "8563", "split_label": "8 5 6 3"}
+{"text": "What is seven thousand two ?", "magnitude": 4, "label": "7002", "split_label": "7 0 0 2"}
+{"text": "What is four thousand one hundred ninety eight ?", "magnitude": 4, "label": "4198", "split_label": "4 1 9 8"}
+{"text": "What is six thousand ?", "magnitude": 4, "label": "6000", "split_label": "6 0 0 0"}
+{"text": "What is eight thousand eighty three ?", "magnitude": 4, "label": "8083", "split_label": "8 0 8 3"}
+{"text": "What is one thousand five hundred fourteen ?", "magnitude": 4, "label": "1514", "split_label": "1 5 1 4"}
+{"text": "What is seven thousand eighty five ?", "magnitude": 4, "label": "7085", "split_label": "7 0 8 5"}
+{"text": "What is five thousand nine ?", "magnitude": 4, "label": "5009", "split_label": "5 0 0 9"}
+{"text": "What is eight thousand ninety three ?", "magnitude": 4, "label": "8093", "split_label": "8 0 9 3"}
+{"text": "What is eight thousand seventy four ?", "magnitude": 4, "label": "8074", "split_label": "8 0 7 4"}
+{"text": "What is three thousand fifty two ?", "magnitude": 4, "label": "3052", "split_label": "3 0 5 2"}
+{"text": "What is thirty ?", "magnitude": 2, "label": "30", "split_label": "3 0"}
+{"text": "What is six thousand eighty eight ?", "magnitude": 4, "label": "6088", "split_label": "6 0 8 8"}
+{"text": "What is nine thousand fifty one ?", "magnitude": 4, "label": "9051", "split_label": "9 0 5 1"}
+{"text": "What is four thousand two hundred ninety five ?", "magnitude": 4, "label": "4295", "split_label": "4 2 9 5"}
+{"text": "What is seven thousand nine hundred fifty two ?", "magnitude": 4, "label": "7952", "split_label": "7 9 5 2"}
+{"text": "What is six thousand two hundred forty eight ?", "magnitude": 4, "label": "6248", "split_label": "6 2 4 8"}
+{"text": "What is two thousand six hundred five ?", "magnitude": 4, "label": "2605", "split_label": "2 6 0 5"}
+{"text": "What is five thousand twenty ?", "magnitude": 4, "label": "5020", "split_label": "5 0 2 0"}
+{"text": "What is seven thousand eighty eight ?", "magnitude": 4, "label": "7088", "split_label": "7 0 8 8"}
+{"text": "What is four thousand nine hundred ninety eight ?", "magnitude": 4, "label": "4998", "split_label": "4 9 9 8"}
+{"text": "What is two thousand two hundred seventy three ?", "magnitude": 4, "label": "2273", "split_label": "2 2 7 3"}
+{"text": "What is seven thousand thirty seven ?", "magnitude": 4, "label": "7037", "split_label": "7 0 3 7"}
+{"text": "What is four thousand ninety eight ?", "magnitude": 4, "label": "4098", "split_label": "4 0 9 8"}
+{"text": "What is nine thousand fifty nine ?", "magnitude": 4, "label": "9059", "split_label": "9 0 5 9"}
+{"text": "What is four thousand three hundred seventy one ?", "magnitude": 4, "label": "4371", "split_label": "4 3 7 1"}
+{"text": "What is one thousand ninety seven ?", "magnitude": 4, "label": "1097", "split_label": "1 0 9 7"}
+{"text": "What is seven thousand seventy six ?", "magnitude": 4, "label": "7076", "split_label": "7 0 7 6"}
+{"text": "What is nine thousand sixty five ?", "magnitude": 4, "label": "9065", "split_label": "9 0 6 5"}
+{"text": "What is three thousand thirteen ?", "magnitude": 4, "label": "3013", "split_label": "3 0 1 3"}
+{"text": "What is three thousand seventy four ?", "magnitude": 4, "label": "3074", "split_label": "3 0 7 4"}
+{"text": "What is nine thousand nine hundred eight ?", "magnitude": 4, "label": "9908", "split_label": "9 9 0 8"}
+{"text": "What is eight thousand twenty eight ?", "magnitude": 4, "label": "8028", "split_label": "8 0 2 8"}
+{"text": "What is two thousand three hundred eighteen ?", "magnitude": 4, "label": "2318", "split_label": "2 3 1 8"}
+{"text": "What is one thousand seven hundred forty five ?", "magnitude": 4, "label": "1745", "split_label": "1 7 4 5"}
+{"text": "What is eight thousand seven hundred fifty seven ?", "magnitude": 4, "label": "8757", "split_label": "8 7 5 7"}
+{"text": "What is eight thousand fifty two ?", "magnitude": 4, "label": "8052", "split_label": "8 0 5 2"}
+{"text": "What is three thousand twenty four ?", "magnitude": 4, "label": "3024", "split_label": "3 0 2 4"}
+{"text": "What is one thousand seventy six ?", "magnitude": 4, "label": "1076", "split_label": "1 0 7 6"}
+{"text": "What is four thousand ninety ?", "magnitude": 4, "label": "4090", "split_label": "4 0 9 0"}
+{"text": "What is three thousand sixty seven ?", "magnitude": 4, "label": "3067", "split_label": "3 0 6 7"}
+{"text": "What is eight thousand twenty five ?", "magnitude": 4, "label": "8025", "split_label": "8 0 2 5"}
+{"text": "What is two thousand twenty ?", "magnitude": 4, "label": "2020", "split_label": "2 0 2 0"}
+{"text": "What is four thousand fifteen ?", "magnitude": 4, "label": "4015", "split_label": "4 0 1 5"}
+{"text": "What is six thousand ninety three ?", "magnitude": 4, "label": "6093", "split_label": "6 0 9 3"}
+{"text": "What is seven thousand sixteen ?", "magnitude": 4, "label": "7016", "split_label": "7 0 1 6"}
+{"text": "What is two thousand two hundred three ?", "magnitude": 4, "label": "2203", "split_label": "2 2 0 3"}
+{"text": "What is five hundred fifteen ?", "magnitude": 3, "label": "515", "split_label": "5 1 5"}
+{"text": "What is three thousand seventy five ?", "magnitude": 4, "label": "3075", "split_label": "3 0 7 5"}
+{"text": "What is one thousand thirty seven ?", "magnitude": 4, "label": "1037", "split_label": "1 0 3 7"}
+{"text": "What is seven thousand thirty three ?", "magnitude": 4, "label": "7033", "split_label": "7 0 3 3"}
+{"text": "What is four thousand four hundred thirty four ?", "magnitude": 4, "label": "4434", "split_label": "4 4 3 4"}
+{"text": "What is nine thousand seventy one ?", "magnitude": 4, "label": "9071", "split_label": "9 0 7 1"}
+{"text": "What is two thousand eighty nine ?", "magnitude": 4, "label": "2089", "split_label": "2 0 8 9"}
+{"text": "What is seven thousand fifty ?", "magnitude": 4, "label": "7050", "split_label": "7 0 5 0"}
+{"text": "What is two thousand seven hundred sixty nine ?", "magnitude": 4, "label": "2769", "split_label": "2 7 6 9"}
+{"text": "What is four thousand eight hundred seventy four ?", "magnitude": 4, "label": "4874", "split_label": "4 8 7 4"}
+{"text": "What is one thousand fifty five ?", "magnitude": 4, "label": "1055", "split_label": "1 0 5 5"}
+{"text": "What is seven thousand eighty nine ?", "magnitude": 4, "label": "7089", "split_label": "7 0 8 9"}
+{"text": "What is two thousand twenty eight ?", "magnitude": 4, "label": "2028", "split_label": "2 0 2 8"}
+{"text": "What is five thousand thirty four ?", "magnitude": 4, "label": "5034", "split_label": "5 0 3 4"}
+{"text": "What is one thousand eighty ?", "magnitude": 4, "label": "1080", "split_label": "1 0 8 0"}
+{"text": "What is seven thousand eight hundred twelve ?", "magnitude": 4, "label": "7812", "split_label": "7 8 1 2"}
+{"text": "What is two thousand three ?", "magnitude": 4, "label": "2003", "split_label": "2 0 0 3"}
+{"text": "What is one thousand five hundred thirty four ?", "magnitude": 4, "label": "1534", "split_label": "1 5 3 4"}
+{"text": "What is four thousand fifty one ?", "magnitude": 4, "label": "4051", "split_label": "4 0 5 1"}
+{"text": "What is nine thousand six hundred ninety two ?", "magnitude": 4, "label": "9692", "split_label": "9 6 9 2"}
+{"text": "What is five thousand eleven ?", "magnitude": 4, "label": "5011", "split_label": "5 0 1 1"}
+{"text": "What is nine thousand one hundred thirty three ?", "magnitude": 4, "label": "9133", "split_label": "9 1 3 3"}
+{"text": "What is six thousand one hundred fifty two ?", "magnitude": 4, "label": "6152", "split_label": "6 1 5 2"}
+{"text": "What is nine thousand sixteen ?", "magnitude": 4, "label": "9016", "split_label": "9 0 1 6"}
+{"text": "What is seven thousand four hundred forty nine ?", "magnitude": 4, "label": "7449", "split_label": "7 4 4 9"}
+{"text": "What is six thousand one hundred thirty six ?", "magnitude": 4, "label": "6136", "split_label": "6 1 3 6"}
+{"text": "What is five thousand one hundred ninety two ?", "magnitude": 4, "label": "5192", "split_label": "5 1 9 2"}
+{"text": "What is five thousand twenty two ?", "magnitude": 4, "label": "5022", "split_label": "5 0 2 2"}
+{"text": "What is five thousand seven hundred fourteen ?", "magnitude": 4, "label": "5714", "split_label": "5 7 1 4"}
+{"text": "What is two thousand thirty nine ?", "magnitude": 4, "label": "2039", "split_label": "2 0 3 9"}
+{"text": "What is six thousand eight hundred sixty ?", "magnitude": 4, "label": "6860", "split_label": "6 8 6 0"}
+{"text": "What is five hundred seven ?", "magnitude": 3, "label": "507", "split_label": "5 0 7"}
+{"text": "What is two thousand three hundred sixty seven ?", "magnitude": 4, "label": "2367", "split_label": "2 3 6 7"}
+{"text": "What is three thousand thirty three ?", "magnitude": 4, "label": "3033", "split_label": "3 0 3 3"}
+{"text": "What is nine thousand thirty eight ?", "magnitude": 4, "label": "9038", "split_label": "9 0 3 8"}
+{"text": "What is seven thousand seventy two ?", "magnitude": 4, "label": "7072", "split_label": "7 0 7 2"}
+{"text": "What is seven thousand fifty seven ?", "magnitude": 4, "label": "7057", "split_label": "7 0 5 7"}
+{"text": "What is three hundred forty seven ?", "magnitude": 3, "label": "347", "split_label": "3 4 7"}
+{"text": "What is nine thousand forty ?", "magnitude": 4, "label": "9040", "split_label": "9 0 4 0"}
+{"text": "What is six thousand three hundred ninety nine ?", "magnitude": 4, "label": "6399", "split_label": "6 3 9 9"}
+{"text": "What is nine thousand two hundred four ?", "magnitude": 4, "label": "9204", "split_label": "9 2 0 4"}
+{"text": "What is eight thousand forty two ?", "magnitude": 4, "label": "8042", "split_label": "8 0 4 2"}
+{"text": "What is eight thousand twenty three ?", "magnitude": 4, "label": "8023", "split_label": "8 0 2 3"}
+{"text": "What is three thousand three hundred ninety ?", "magnitude": 4, "label": "3390", "split_label": "3 3 9 0"}
+{"text": "What is six thousand thirty one ?", "magnitude": 4, "label": "6031", "split_label": "6 0 3 1"}
+{"text": "What is four thousand six hundred seventy ?", "magnitude": 4, "label": "4670", "split_label": "4 6 7 0"}
+{"text": "What is four thousand thirty four ?", "magnitude": 4, "label": "4034", "split_label": "4 0 3 4"}
+{"text": "What is four thousand forty one ?", "magnitude": 4, "label": "4041", "split_label": "4 0 4 1"}
+{"text": "What is six hundred seventy two ?", "magnitude": 3, "label": "672", "split_label": "6 7 2"}
+{"text": "What is six thousand seventy six ?", "magnitude": 4, "label": "6076", "split_label": "6 0 7 6"}
+{"text": "What is three thousand seventy ?", "magnitude": 4, "label": "3070", "split_label": "3 0 7 0"}
+{"text": "What is seven hundred eighty five ?", "magnitude": 3, "label": "785", "split_label": "7 8 5"}
+{"text": "What is nine thousand eighty nine ?", "magnitude": 4, "label": "9089", "split_label": "9 0 8 9"}
+{"text": "What is three thousand eight hundred nine ?", "magnitude": 4, "label": "3809", "split_label": "3 8 0 9"}
+{"text": "What is six thousand twelve ?", "magnitude": 4, "label": "6012", "split_label": "6 0 1 2"}
+{"text": "What is eight thousand forty five ?", "magnitude": 4, "label": "8045", "split_label": "8 0 4 5"}
+{"text": "What is five thousand sixty one ?", "magnitude": 4, "label": "5061", "split_label": "5 0 6 1"}
+{"text": "What is five thousand forty two ?", "magnitude": 4, "label": "5042", "split_label": "5 0 4 2"}
+{"text": "What is two thousand forty seven ?", "magnitude": 4, "label": "2047", "split_label": "2 0 4 7"}
+{"text": "What is five thousand ?", "magnitude": 4, "label": "5000", "split_label": "5 0 0 0"}
+{"text": "What is nine thousand three hundred thirty ?", "magnitude": 4, "label": "9330", "split_label": "9 3 3 0"}
+{"text": "What is three thousand eight hundred sixty seven ?", "magnitude": 4, "label": "3867", "split_label": "3 8 6 7"}
+{"text": "What is eight thousand thirty one ?", "magnitude": 4, "label": "8031", "split_label": "8 0 3 1"}
+{"text": "What is two thousand five hundred seventy six ?", "magnitude": 4, "label": "2576", "split_label": "2 5 7 6"}
+{"text": "What is six thousand fifty six ?", "magnitude": 4, "label": "6056", "split_label": "6 0 5 6"}
+{"text": "What is seven thousand sixty nine ?", "magnitude": 4, "label": "7069", "split_label": "7 0 6 9"}
+{"text": "What is five thousand forty one ?", "magnitude": 4, "label": "5041", "split_label": "5 0 4 1"}
+{"text": "What is three thousand sixty one ?", "magnitude": 4, "label": "3061", "split_label": "3 0 6 1"}
+{"text": "What is five thousand six hundred twenty six ?", "magnitude": 4, "label": "5626", "split_label": "5 6 2 6"}
+{"text": "What is eight thousand seventy nine ?", "magnitude": 4, "label": "8079", "split_label": "8 0 7 9"}
+{"text": "What is eight thousand thirty seven ?", "magnitude": 4, "label": "8037", "split_label": "8 0 3 7"}
+{"text": "What is four thousand seventy five ?", "magnitude": 4, "label": "4075", "split_label": "4 0 7 5"}
+{"text": "What is three thousand eighteen ?", "magnitude": 4, "label": "3018", "split_label": "3 0 1 8"}
+{"text": "What is six thousand eighty one ?", "magnitude": 4, "label": "6081", "split_label": "6 0 8 1"}
+{"text": "What is nine thousand one ?", "magnitude": 4, "label": "9001", "split_label": "9 0 0 1"}
+{"text": "What is seven thousand one hundred one ?", "magnitude": 4, "label": "7101", "split_label": "7 1 0 1"}
+{"text": "What is five thousand eight hundred thirty seven ?", "magnitude": 4, "label": "5837", "split_label": "5 8 3 7"}
+{"text": "What is eight thousand one hundred twenty one ?", "magnitude": 4, "label": "8121", "split_label": "8 1 2 1"}
+{"text": "What is seven thousand seven hundred four ?", "magnitude": 4, "label": "7704", "split_label": "7 7 0 4"}
+{"text": "What is two thousand forty nine ?", "magnitude": 4, "label": "2049", "split_label": "2 0 4 9"}
+{"text": "What is two thousand forty five ?", "magnitude": 4, "label": "2045", "split_label": "2 0 4 5"}
+{"text": "What is six thousand two hundred nineteen ?", "magnitude": 4, "label": "6219", "split_label": "6 2 1 9"}
+{"text": "What is two thousand five hundred sixty four ?", "magnitude": 4, "label": "2564", "split_label": "2 5 6 4"}
+{"text": "What is seven thousand twenty ?", "magnitude": 4, "label": "7020", "split_label": "7 0 2 0"}
+{"text": "What is seven thousand six ?", "magnitude": 4, "label": "7006", "split_label": "7 0 0 6"}
+{"text": "What is one thousand eight hundred sixty eight ?", "magnitude": 4, "label": "1868", "split_label": "1 8 6 8"}
+{"text": "What is one thousand nine hundred ?", "magnitude": 4, "label": "1900", "split_label": "1 9 0 0"}
+{"text": "What is three thousand five hundred sixty four ?", "magnitude": 4, "label": "3564", "split_label": "3 5 6 4"}
+{"text": "What is five thousand six hundred twenty three ?", "magnitude": 4, "label": "5623", "split_label": "5 6 2 3"}
+{"text": "What is four thousand twenty nine ?", "magnitude": 4, "label": "4029", "split_label": "4 0 2 9"}
+{"text": "What is two thousand twenty two ?", "magnitude": 4, "label": "2022", "split_label": "2 0 2 2"}
+{"text": "What is one thousand sixty two ?", "magnitude": 4, "label": "1062", "split_label": "1 0 6 2"}
+{"text": "What is seven thousand eight hundred forty two ?", "magnitude": 4, "label": "7842", "split_label": "7 8 4 2"}
+{"text": "What is two thousand ninety nine ?", "magnitude": 4, "label": "2099", "split_label": "2 0 9 9"}
+{"text": "What is five thousand six hundred fifty six ?", "magnitude": 4, "label": "5656", "split_label": "5 6 5 6"}
+{"text": "What is nine hundred seventy three ?", "magnitude": 3, "label": "973", "split_label": "9 7 3"}
+{"text": "What is seven thousand forty six ?", "magnitude": 4, "label": "7046", "split_label": "7 0 4 6"}
+{"text": "What is four thousand ?", "magnitude": 4, "label": "4000", "split_label": "4 0 0 0"}
+{"text": "What is five thousand eighty eight ?", "magnitude": 4, "label": "5088", "split_label": "5 0 8 8"}
+{"text": "What is eight thousand eight hundred twenty nine ?", "magnitude": 4, "label": "8829", "split_label": "8 8 2 9"}
+{"text": "What is six thousand five ?", "magnitude": 4, "label": "6005", "split_label": "6 0 0 5"}
+{"text": "What is eight thousand three hundred eleven ?", "magnitude": 4, "label": "8311", "split_label": "8 3 1 1"}
+{"text": "What is eight thousand twelve ?", "magnitude": 4, "label": "8012", "split_label": "8 0 1 2"}
+{"text": "What is six thousand forty eight ?", "magnitude": 4, "label": "6048", "split_label": "6 0 4 8"}
+{"text": "What is six thousand nine hundred sixty ?", "magnitude": 4, "label": "6960", "split_label": "6 9 6 0"}
+{"text": "What is four thousand seventy six ?", "magnitude": 4, "label": "4076", "split_label": "4 0 7 6"}
+{"text": "What is one thousand four hundred eighteen ?", "magnitude": 4, "label": "1418", "split_label": "1 4 1 8"}
+{"text": "What is seven thousand six hundred forty four ?", "magnitude": 4, "label": "7644", "split_label": "7 6 4 4"}
+{"text": "What is one thousand five hundred eleven ?", "magnitude": 4, "label": "1511", "split_label": "1 5 1 1"}
+{"text": "What is five thousand one hundred thirty eight ?", "magnitude": 4, "label": "5138", "split_label": "5 1 3 8"}
+{"text": "What is nine thousand seven hundred ten ?", "magnitude": 4, "label": "9710", "split_label": "9 7 1 0"}
+{"text": "What is two thousand seven hundred fifty eight ?", "magnitude": 4, "label": "2758", "split_label": "2 7 5 8"}
+{"text": "What is two hundred eighty two ?", "magnitude": 3, "label": "282", "split_label": "2 8 2"}
+{"text": "What is two thousand seventy nine ?", "magnitude": 4, "label": "2079", "split_label": "2 0 7 9"}
+{"text": "What is eight thousand seven hundred seventy three ?", "magnitude": 4, "label": "8773", "split_label": "8 7 7 3"}
+{"text": "What is one thousand sixty nine ?", "magnitude": 4, "label": "1069", "split_label": "1 0 6 9"}
+{"text": "What is two thousand seven hundred ninety two ?", "magnitude": 4, "label": "2792", "split_label": "2 7 9 2"}
+{"text": "What is nine hundred eighty four ?", "magnitude": 3, "label": "984", "split_label": "9 8 4"}
+{"text": "What is one thousand eight hundred sixty three ?", "magnitude": 4, "label": "1863", "split_label": "1 8 6 3"}
+{"text": "What is seven thousand seventy seven ?", "magnitude": 4, "label": "7077", "split_label": "7 0 7 7"}
+{"text": "What is two thousand ninety three ?", "magnitude": 4, "label": "2093", "split_label": "2 0 9 3"}
+{"text": "What is eleven ?", "magnitude": 2, "label": "11", "split_label": "1 1"}
+{"text": "What is five thousand four hundred ninety six ?", "magnitude": 4, "label": "5496", "split_label": "5 4 9 6"}
+{"text": "What is eight thousand forty nine ?", "magnitude": 4, "label": "8049", "split_label": "8 0 4 9"}
+{"text": "What is four thousand three hundred ninety eight ?", "magnitude": 4, "label": "4398", "split_label": "4 3 9 8"}
+{"text": "What is three thousand thirty one ?", "magnitude": 4, "label": "3031", "split_label": "3 0 3 1"}
+{"text": "What is five thousand three ?", "magnitude": 4, "label": "5003", "split_label": "5 0 0 3"}
+{"text": "What is eight thousand seven hundred ninety three ?", "magnitude": 4, "label": "8793", "split_label": "8 7 9 3"}
+{"text": "What is one thousand forty nine ?", "magnitude": 4, "label": "1049", "split_label": "1 0 4 9"}
+{"text": "What is three thousand seven hundred sixty three ?", "magnitude": 4, "label": "3763", "split_label": "3 7 6 3"}
+{"text": "What is one thousand five hundred twenty two ?", "magnitude": 4, "label": "1522", "split_label": "1 5 2 2"}
+{"text": "What is one thousand eight hundred twenty ?", "magnitude": 4, "label": "1820", "split_label": "1 8 2 0"}
+{"text": "What is two thousand five ?", "magnitude": 4, "label": "2005", "split_label": "2 0 0 5"}
+{"text": "What is seventy ?", "magnitude": 2, "label": "70", "split_label": "7 0"}
+{"text": "What is eight thousand fifty one ?", "magnitude": 4, "label": "8051", "split_label": "8 0 5 1"}
+{"text": "What is six thousand seven hundred fifty two ?", "magnitude": 4, "label": "6752", "split_label": "6 7 5 2"}
+{"text": "What is one thousand ninety five ?", "magnitude": 4, "label": "1095", "split_label": "1 0 9 5"}
+{"text": "What is eight thousand thirty nine ?", "magnitude": 4, "label": "8039", "split_label": "8 0 3 9"}
+{"text": "What is three thousand seventy two ?", "magnitude": 4, "label": "3072", "split_label": "3 0 7 2"}
+{"text": "What is nine thousand forty one ?", "magnitude": 4, "label": "9041", "split_label": "9 0 4 1"}
+{"text": "What is five thousand seven ?", "magnitude": 4, "label": "5007", "split_label": "5 0 0 7"}
+{"text": "What is six thousand eight hundred sixty eight ?", "magnitude": 4, "label": "6868", "split_label": "6 8 6 8"}
+{"text": "What is four thousand fifty four ?", "magnitude": 4, "label": "4054", "split_label": "4 0 5 4"}
+{"text": "What is two thousand thirty ?", "magnitude": 4, "label": "2030", "split_label": "2 0 3 0"}
+{"text": "What is twenty ?", "magnitude": 2, "label": "20", "split_label": "2 0"}
+{"text": "What is two thousand eight hundred forty ?", "magnitude": 4, "label": "2840", "split_label": "2 8 4 0"}
+{"text": "What is three thousand three hundred twenty five ?", "magnitude": 4, "label": "3325", "split_label": "3 3 2 5"}
+{"text": "What is three hundred thirty five ?", "magnitude": 3, "label": "335", "split_label": "3 3 5"}
+{"text": "What is one thousand forty two ?", "magnitude": 4, "label": "1042", "split_label": "1 0 4 2"}
+{"text": "What is four thousand eight hundred sixty nine ?", "magnitude": 4, "label": "4869", "split_label": "4 8 6 9"}
+{"text": "What is one thousand six hundred forty ?", "magnitude": 4, "label": "1640", "split_label": "1 6 4 0"}
+{"text": "What is nine thousand seven hundred fifty one ?", "magnitude": 4, "label": "9751", "split_label": "9 7 5 1"}
+{"text": "What is three thousand two hundred seven ?", "magnitude": 4, "label": "3207", "split_label": "3 2 0 7"}
+{"text": "What is seven thousand two hundred fifty three ?", "magnitude": 4, "label": "7253", "split_label": "7 2 5 3"}
+{"text": "What is two thousand seventy seven ?", "magnitude": 4, "label": "2077", "split_label": "2 0 7 7"}
+{"text": "What is three thousand eight hundred forty seven ?", "magnitude": 4, "label": "3847", "split_label": "3 8 4 7"}
+{"text": "What is four thousand eight hundred thirteen ?", "magnitude": 4, "label": "4813", "split_label": "4 8 1 3"}
+{"text": "What is two thousand ninety two ?", "magnitude": 4, "label": "2092", "split_label": "2 0 9 2"}
+{"text": "What is five hundred fifty three ?", "magnitude": 3, "label": "553", "split_label": "5 5 3"}
+{"text": "What is eight thousand one hundred nine ?", "magnitude": 4, "label": "8109", "split_label": "8 1 0 9"}
+{"text": "What is six thousand seven hundred sixteen ?", "magnitude": 4, "label": "6716", "split_label": "6 7 1 6"}
+{"text": "What is three thousand seventy seven ?", "magnitude": 4, "label": "3077", "split_label": "3 0 7 7"}
+{"text": "What is five thousand seven hundred thirty four ?", "magnitude": 4, "label": "5734", "split_label": "5 7 3 4"}
+{"text": "What is one thousand two hundred eight ?", "magnitude": 4, "label": "1208", "split_label": "1 2 0 8"}
+{"text": "What is one thousand twenty seven ?", "magnitude": 4, "label": "1027", "split_label": "1 0 2 7"}
+{"text": "What is seven thousand forty five ?", "magnitude": 4, "label": "7045", "split_label": "7 0 4 5"}
+{"text": "What is one thousand eighty nine ?", "magnitude": 4, "label": "1089", "split_label": "1 0 8 9"}
+{"text": "What is one thousand fourteen ?", "magnitude": 4, "label": "1014", "split_label": "1 0 1 4"}
+{"text": "What is eight thousand one hundred thirty three ?", "magnitude": 4, "label": "8133", "split_label": "8 1 3 3"}
+{"text": "What is five thousand one hundred nine ?", "magnitude": 4, "label": "5109", "split_label": "5 1 0 9"}
+{"text": "What is three thousand sixty two ?", "magnitude": 4, "label": "3062", "split_label": "3 0 6 2"}
+{"text": "What is one thousand eight hundred fifty five ?", "magnitude": 4, "label": "1855", "split_label": "1 8 5 5"}
+{"text": "What is seven thousand eight hundred sixty nine ?", "magnitude": 4, "label": "7869", "split_label": "7 8 6 9"}
+{"text": "What is one ?", "magnitude": 1, "label": "1", "split_label": "1"}
+{"text": "What is four thousand ten ?", "magnitude": 4, "label": "4010", "split_label": "4 0 1 0"}
+{"text": "What is three hundred sixty four ?", "magnitude": 3, "label": "364", "split_label": "3 6 4"}
+{"text": "What is one thousand forty ?", "magnitude": 4, "label": "1040", "split_label": "1 0 4 0"}
+{"text": "What is six thousand two ?", "magnitude": 4, "label": "6002", "split_label": "6 0 0 2"}
+{"text": "What is five thousand six hundred seventy six ?", "magnitude": 4, "label": "5676", "split_label": "5 6 7 6"}
+{"text": "What is five thousand forty ?", "magnitude": 4, "label": "5040", "split_label": "5 0 4 0"}
+{"text": "What is two thousand one hundred four ?", "magnitude": 4, "label": "2104", "split_label": "2 1 0 4"}
+{"text": "What is eight thousand six hundred forty two ?", "magnitude": 4, "label": "8642", "split_label": "8 6 4 2"}
+{"text": "What is six thousand one ?", "magnitude": 4, "label": "6001", "split_label": "6 0 0 1"}
+{"text": "What is five thousand ninety three ?", "magnitude": 4, "label": "5093", "split_label": "5 0 9 3"}
+{"text": "What is seven thousand forty eight ?", "magnitude": 4, "label": "7048", "split_label": "7 0 4 8"}
+{"text": "What is five thousand seven hundred twenty six ?", "magnitude": 4, "label": "5726", "split_label": "5 7 2 6"}
+{"text": "What is four thousand six hundred fifty two ?", "magnitude": 4, "label": "4652", "split_label": "4 6 5 2"}
+{"text": "What is eight thousand twenty four ?", "magnitude": 4, "label": "8024", "split_label": "8 0 2 4"}
+{"text": "What is nine thousand sixty six ?", "magnitude": 4, "label": "9066", "split_label": "9 0 6 6"}
+{"text": "What is nine thousand four hundred thirty ?", "magnitude": 4, "label": "9430", "split_label": "9 4 3 0"}
+{"text": "What is fourteen ?", "magnitude": 2, "label": "14", "split_label": "1 4"}
+{"text": "What is two thousand fifty two ?", "magnitude": 4, "label": "2052", "split_label": "2 0 5 2"}
+{"text": "What is six thousand forty six ?", "magnitude": 4, "label": "6046", "split_label": "6 0 4 6"}
+{"text": "What is two thousand nine ?", "magnitude": 4, "label": "2009", "split_label": "2 0 0 9"}
+{"text": "What is eight thousand one ?", "magnitude": 4, "label": "8001", "split_label": "8 0 0 1"}
+{"text": "What is seven thousand three hundred fourteen ?", "magnitude": 4, "label": "7314", "split_label": "7 3 1 4"}
+{"text": "What is four thousand sixty seven ?", "magnitude": 4, "label": "4067", "split_label": "4 0 6 7"}
+{"text": "What is one hundred nineteen ?", "magnitude": 3, "label": "119", "split_label": "1 1 9"}
+{"text": "What is six thousand eighty ?", "magnitude": 4, "label": "6080", "split_label": "6 0 8 0"}
+{"text": "What is seven thousand eight hundred twenty two ?", "magnitude": 4, "label": "7822", "split_label": "7 8 2 2"}
+{"text": "What is three thousand thirty seven ?", "magnitude": 4, "label": "3037", "split_label": "3 0 3 7"}
+{"text": "What is five thousand five hundred forty one ?", "magnitude": 4, "label": "5541", "split_label": "5 5 4 1"}
+{"text": "What is two thousand seventeen ?", "magnitude": 4, "label": "2017", "split_label": "2 0 1 7"}
+{"text": "What is nine thousand forty five ?", "magnitude": 4, "label": "9045", "split_label": "9 0 4 5"}
+{"text": "What is seven thousand thirty nine ?", "magnitude": 4, "label": "7039", "split_label": "7 0 3 9"}
+{"text": "What is five thousand eight hundred twenty six ?", "magnitude": 4, "label": "5826", "split_label": "5 8 2 6"}
+{"text": "What is eight thousand five hundred sixty eight ?", "magnitude": 4, "label": "8568", "split_label": "8 5 6 8"}
+{"text": "What is four thousand seven hundred forty six ?", "magnitude": 4, "label": "4746", "split_label": "4 7 4 6"}
+{"text": "What is four thousand fifty six ?", "magnitude": 4, "label": "4056", "split_label": "4 0 5 6"}
+{"text": "What is nine thousand thirty one ?", "magnitude": 4, "label": "9031", "split_label": "9 0 3 1"}
+{"text": "What is six thousand three hundred sixty nine ?", "magnitude": 4, "label": "6369", "split_label": "6 3 6 9"}
+{"text": "What is eight thousand five hundred ninety nine ?", "magnitude": 4, "label": "8599", "split_label": "8 5 9 9"}
+{"text": "What is five thousand one hundred five ?", "magnitude": 4, "label": "5105", "split_label": "5 1 0 5"}
+{"text": "What is one thousand seven hundred forty six ?", "magnitude": 4, "label": "1746", "split_label": "1 7 4 6"}
+{"text": "What is four thousand seventy two ?", "magnitude": 4, "label": "4072", "split_label": "4 0 7 2"}
+{"text": "What is five thousand forty three ?", "magnitude": 4, "label": "5043", "split_label": "5 0 4 3"}
+{"text": "What is three thousand one ?", "magnitude": 4, "label": "3001", "split_label": "3 0 0 1"}
+{"text": "What is three thousand forty three ?", "magnitude": 4, "label": "3043", "split_label": "3 0 4 3"}
+{"text": "What is four thousand eleven ?", "magnitude": 4, "label": "4011", "split_label": "4 0 1 1"}
+{"text": "What is seven hundred thirty five ?", "magnitude": 3, "label": "735", "split_label": "7 3 5"}
+{"text": "What is six thousand eighty four ?", "magnitude": 4, "label": "6084", "split_label": "6 0 8 4"}
+{"text": "What is five thousand ten ?", "magnitude": 4, "label": "5010", "split_label": "5 0 1 0"}
+{"text": "What is seven thousand six hundred eighty four ?", "magnitude": 4, "label": "7684", "split_label": "7 6 8 4"}
+{"text": "What is three thousand nine hundred eighty four ?", "magnitude": 4, "label": "3984", "split_label": "3 9 8 4"}
+{"text": "What is nine thousand seventy two ?", "magnitude": 4, "label": "9072", "split_label": "9 0 7 2"}
+{"text": "What is seven thousand seven hundred fifty ?", "magnitude": 4, "label": "7750", "split_label": "7 7 5 0"}
+{"text": "What is nine thousand four hundred thirty three ?", "magnitude": 4, "label": "9433", "split_label": "9 4 3 3"}
+{"text": "What is nine thousand nine hundred fifty one ?", "magnitude": 4, "label": "9951", "split_label": "9 9 5 1"}
+{"text": "What is two thousand ninety five ?", "magnitude": 4, "label": "2095", "split_label": "2 0 9 5"}
+{"text": "What is two hundred seventy four ?", "magnitude": 3, "label": "274", "split_label": "2 7 4"}
+{"text": "What is eight thousand nine ?", "magnitude": 4, "label": "8009", "split_label": "8 0 0 9"}
+{"text": "What is thirty one ?", "magnitude": 2, "label": "31", "split_label": "3 1"}
+{"text": "What is three thousand ninety one ?", "magnitude": 4, "label": "3091", "split_label": "3 0 9 1"}
+{"text": "What is nine thousand ?", "magnitude": 4, "label": "9000", "split_label": "9 0 0 0"}
+{"text": "What is two thousand eight hundred thirteen ?", "magnitude": 4, "label": "2813", "split_label": "2 8 1 3"}
+{"text": "What is eight ?", "magnitude": 1, "label": "8", "split_label": "8"}
+{"text": "What is one thousand six hundred twenty one ?", "magnitude": 4, "label": "1621", "split_label": "1 6 2 1"}
+{"text": "What is ninety ?", "magnitude": 2, "label": "90", "split_label": "9 0"}
+{"text": "What is three thousand one hundred thirty eight ?", "magnitude": 4, "label": "3138", "split_label": "3 1 3 8"}
+{"text": "What is two thousand two hundred ?", "magnitude": 4, "label": "2200", "split_label": "2 2 0 0"}
+{"text": "What is five thousand sixteen ?", "magnitude": 4, "label": "5016", "split_label": "5 0 1 6"}
+{"text": "What is seven thousand three hundred four ?", "magnitude": 4, "label": "7304", "split_label": "7 3 0 4"}
+{"text": "What is six thousand one hundred ?", "magnitude": 4, "label": "6100", "split_label": "6 1 0 0"}
+{"text": "What is nine thousand ninety seven ?", "magnitude": 4, "label": "9097", "split_label": "9 0 9 7"}
+{"text": "What is six thousand nine hundred seventy ?", "magnitude": 4, "label": "6970", "split_label": "6 9 7 0"}
+{"text": "What is nine thousand one hundred eighty seven ?", "magnitude": 4, "label": "9187", "split_label": "9 1 8 7"}
+{"text": "What is one thousand twenty ?", "magnitude": 4, "label": "1020", "split_label": "1 0 2 0"}
+{"text": "What is four thousand five hundred eighty four ?", "magnitude": 4, "label": "4584", "split_label": "4 5 8 4"}
+{"text": "What is two thousand one hundred seventy seven ?", "magnitude": 4, "label": "2177", "split_label": "2 1 7 7"}
+{"text": "What is nine thousand fifty seven ?", "magnitude": 4, "label": "9057", "split_label": "9 0 5 7"}
+{"text": "What is one thousand six hundred sixty ?", "magnitude": 4, "label": "1660", "split_label": "1 6 6 0"}
+{"text": "What is five thousand thirty three ?", "magnitude": 4, "label": "5033", "split_label": "5 0 3 3"}
+{"text": "What is six hundred forty eight ?", "magnitude": 3, "label": "648", "split_label": "6 4 8"}
+{"text": "What is eight thousand sixty five ?", "magnitude": 4, "label": "8065", "split_label": "8 0 6 5"}
+{"text": "What is two thousand twelve ?", "magnitude": 4, "label": "2012", "split_label": "2 0 1 2"}
+{"text": "What is five thousand one hundred sixty eight ?", "magnitude": 4, "label": "5168", "split_label": "5 1 6 8"}
+{"text": "What is five thousand one hundred ninety six ?", "magnitude": 4, "label": "5196", "split_label": "5 1 9 6"}
+{"text": "What is nineteen ?", "magnitude": 2, "label": "19", "split_label": "1 9"}
+{"text": "What is six thousand forty ?", "magnitude": 4, "label": "6040", "split_label": "6 0 4 0"}
+{"text": "What is two thousand forty two ?", "magnitude": 4, "label": "2042", "split_label": "2 0 4 2"}
+{"text": "What is two thousand fifty one ?", "magnitude": 4, "label": "2051", "split_label": "2 0 5 1"}
+{"text": "What is six thousand thirteen ?", "magnitude": 4, "label": "6013", "split_label": "6 0 1 3"}
+{"text": "What is four thousand thirty two ?", "magnitude": 4, "label": "4032", "split_label": "4 0 3 2"}
+{"text": "What is six thousand four hundred seventy four ?", "magnitude": 4, "label": "6474", "split_label": "6 4 7 4"}
+{"text": "What is one thousand thirty two ?", "magnitude": 4, "label": "1032", "split_label": "1 0 3 2"}
+{"text": "What is six thousand ninety nine ?", "magnitude": 4, "label": "6099", "split_label": "6 0 9 9"}
+{"text": "What is fifteen ?", "magnitude": 2, "label": "15", "split_label": "1 5"}
+{"text": "What is two thousand one hundred eighty seven ?", "magnitude": 4, "label": "2187", "split_label": "2 1 8 7"}
+{"text": "What is one thousand sixteen ?", "magnitude": 4, "label": "1016", "split_label": "1 0 1 6"}
+{"text": "What is six thousand nine hundred sixty one ?", "magnitude": 4, "label": "6961", "split_label": "6 9 6 1"}
+{"text": "What is five thousand six hundred thirty six ?", "magnitude": 4, "label": "5636", "split_label": "5 6 3 6"}
+{"text": "What is six thousand two hundred sixty eight ?", "magnitude": 4, "label": "6268", "split_label": "6 2 6 8"}
+{"text": "What is four thousand two hundred sixty seven ?", "magnitude": 4, "label": "4267", "split_label": "4 2 6 7"}
+{"text": "What is one thousand six hundred ?", "magnitude": 4, "label": "1600", "split_label": "1 6 0 0"}
+{"text": "What is four thousand three ?", "magnitude": 4, "label": "4003", "split_label": "4 0 0 3"}
+{"text": "What is one thousand forty five ?", "magnitude": 4, "label": "1045", "split_label": "1 0 4 5"}
+{"text": "What is one thousand seventy eight ?", "magnitude": 4, "label": "1078", "split_label": "1 0 7 8"}
+{"text": "What is two thousand nine hundred sixty seven ?", "magnitude": 4, "label": "2967", "split_label": "2 9 6 7"}
+{"text": "What is two thousand nine hundred seventy ?", "magnitude": 4, "label": "2970", "split_label": "2 9 7 0"}
+{"text": "What is one thousand thirty five ?", "magnitude": 4, "label": "1035", "split_label": "1 0 3 5"}
+{"text": "What is three thousand eighty seven ?", "magnitude": 4, "label": "3087", "split_label": "3 0 8 7"}
+{"text": "What is nine thousand thirty seven ?", "magnitude": 4, "label": "9037", "split_label": "9 0 3 7"}
+{"text": "What is one thousand two hundred ninety four ?", "magnitude": 4, "label": "1294", "split_label": "1 2 9 4"}
+{"text": "What is four thousand fifty two ?", "magnitude": 4, "label": "4052", "split_label": "4 0 5 2"}
+{"text": "What is one thousand fifty nine ?", "magnitude": 4, "label": "1059", "split_label": "1 0 5 9"}
+{"text": "What is two thousand fourteen ?", "magnitude": 4, "label": "2014", "split_label": "2 0 1 4"}
+{"text": "What is seven thousand eighty one ?", "magnitude": 4, "label": "7081", "split_label": "7 0 8 1"}
+{"text": "What is eight thousand two hundred eighty three ?", "magnitude": 4, "label": "8283", "split_label": "8 2 8 3"}
+{"text": "What is one thousand three hundred forty three ?", "magnitude": 4, "label": "1343", "split_label": "1 3 4 3"}
+{"text": "What is four thousand eighty seven ?", "magnitude": 4, "label": "4087", "split_label": "4 0 8 7"}
+{"text": "What is seven thousand eighty six ?", "magnitude": 4, "label": "7086", "split_label": "7 0 8 6"}
+{"text": "What is eight thousand five hundred fifty seven ?", "magnitude": 4, "label": "8557", "split_label": "8 5 5 7"}
+{"text": "What is five thousand twenty eight ?", "magnitude": 4, "label": "5028", "split_label": "5 0 2 8"}
+{"text": "What is one thousand seventy nine ?", "magnitude": 4, "label": "1079", "split_label": "1 0 7 9"}
+{"text": "What is nine hundred ?", "magnitude": 3, "label": "900", "split_label": "9 0 0"}
+{"text": "What is one thousand eighteen ?", "magnitude": 4, "label": "1018", "split_label": "1 0 1 8"}
+{"text": "What is five thousand twenty seven ?", "magnitude": 4, "label": "5027", "split_label": "5 0 2 7"}
+{"text": "What is three thousand twelve ?", "magnitude": 4, "label": "3012", "split_label": "3 0 1 2"}
+{"text": "What is five thousand six hundred ninety seven ?", "magnitude": 4, "label": "5697", "split_label": "5 6 9 7"}
+{"text": "What is nine thousand eighty five ?", "magnitude": 4, "label": "9085", "split_label": "9 0 8 5"}
+{"text": "What is five thousand five hundred twenty one ?", "magnitude": 4, "label": "5521", "split_label": "5 5 2 1"}
+{"text": "What is three thousand two ?", "magnitude": 4, "label": "3002", "split_label": "3 0 0 2"}
+{"text": "What is six thousand thirty three ?", "magnitude": 4, "label": "6033", "split_label": "6 0 3 3"}
+{"text": "What is six thousand one hundred forty five ?", "magnitude": 4, "label": "6145", "split_label": "6 1 4 5"}
+{"text": "What is five thousand seventy two ?", "magnitude": 4, "label": "5072", "split_label": "5 0 7 2"}
+{"text": "What is six thousand ninety one ?", "magnitude": 4, "label": "6091", "split_label": "6 0 9 1"}
+{"text": "What is five thousand one hundred ?", "magnitude": 4, "label": "5100", "split_label": "5 1 0 0"}
+{"text": "What is eight thousand seventy three ?", "magnitude": 4, "label": "8073", "split_label": "8 0 7 3"}
+{"text": "What is seven thousand eighty seven ?", "magnitude": 4, "label": "7087", "split_label": "7 0 8 7"}
+{"text": "What is nine thousand thirteen ?", "magnitude": 4, "label": "9013", "split_label": "9 0 1 3"}
+{"text": "What is nine thousand forty seven ?", "magnitude": 4, "label": "9047", "split_label": "9 0 4 7"}
+{"text": "What is three thousand six hundred twenty three ?", "magnitude": 4, "label": "3623", "split_label": "3 6 2 3"}
+{"text": "What is six thousand eighty seven ?", "magnitude": 4, "label": "6087", "split_label": "6 0 8 7"}
+{"text": "What is five thousand sixty six ?", "magnitude": 4, "label": "5066", "split_label": "5 0 6 6"}
+{"text": "What is nine thousand thirty five ?", "magnitude": 4, "label": "9035", "split_label": "9 0 3 5"}
+{"text": "What is five thousand two hundred thirteen ?", "magnitude": 4, "label": "5213", "split_label": "5 2 1 3"}
+{"text": "What is four thousand two hundred one ?", "magnitude": 4, "label": "4201", "split_label": "4 2 0 1"}
+{"text": "What is seven thousand seven hundred twenty two ?", "magnitude": 4, "label": "7722", "split_label": "7 7 2 2"}
+{"text": "What is six thousand seven hundred twenty one ?", "magnitude": 4, "label": "6721", "split_label": "6 7 2 1"}
+{"text": "What is four thousand sixty ?", "magnitude": 4, "label": "4060", "split_label": "4 0 6 0"}
+{"text": "What is five thousand nine hundred forty nine ?", "magnitude": 4, "label": "5949", "split_label": "5 9 4 9"}
+{"text": "What is seven thousand ninety four ?", "magnitude": 4, "label": "7094", "split_label": "7 0 9 4"}
+{"text": "What is three thousand ninety four ?", "magnitude": 4, "label": "3094", "split_label": "3 0 9 4"}
+{"text": "What is eighteen ?", "magnitude": 2, "label": "18", "split_label": "1 8"}
+{"text": "What is seven thousand eight hundred forty nine ?", "magnitude": 4, "label": "7849", "split_label": "7 8 4 9"}
+{"text": "What is six thousand sixteen ?", "magnitude": 4, "label": "6016", "split_label": "6 0 1 6"}
+{"text": "What is seven thousand four hundred ninety seven ?", "magnitude": 4, "label": "7497", "split_label": "7 4 9 7"}
+{"text": "What is three thousand eighty ?", "magnitude": 4, "label": "3080", "split_label": "3 0 8 0"}
+{"text": "What is two thousand three hundred eighty four ?", "magnitude": 4, "label": "2384", "split_label": "2 3 8 4"}
+{"text": "What is seven thousand seven hundred eighty three ?", "magnitude": 4, "label": "7783", "split_label": "7 7 8 3"}
+{"text": "What is four thousand nine hundred fifteen ?", "magnitude": 4, "label": "4915", "split_label": "4 9 1 5"}
+{"text": "What is five thousand fifty seven ?", "magnitude": 4, "label": "5057", "split_label": "5 0 5 7"}
+{"text": "What is five thousand sixty four ?", "magnitude": 4, "label": "5064", "split_label": "5 0 6 4"}
+{"text": "What is three hundred sixteen ?", "magnitude": 3, "label": "316", "split_label": "3 1 6"}
+{"text": "What is four thousand five hundred twelve ?", "magnitude": 4, "label": "4512", "split_label": "4 5 1 2"}
+{"text": "What is four thousand six hundred fifty eight ?", "magnitude": 4, "label": "4658", "split_label": "4 6 5 8"}
+{"text": "What is four thousand four hundred forty two ?", "magnitude": 4, "label": "4442", "split_label": "4 4 4 2"}
+{"text": "What is nine thousand sixty eight ?", "magnitude": 4, "label": "9068", "split_label": "9 0 6 8"}
+{"text": "What is four thousand nineteen ?", "magnitude": 4, "label": "4019", "split_label": "4 0 1 9"}
+{"text": "What is three hundred thirty seven ?", "magnitude": 3, "label": "337", "split_label": "3 3 7"}
+{"text": "What is one hundred eighty one ?", "magnitude": 3, "label": "181", "split_label": "1 8 1"}
+{"text": "What is eight thousand forty ?", "magnitude": 4, "label": "8040", "split_label": "8 0 4 0"}
+{"text": "What is six thousand six hundred seventy three ?", "magnitude": 4, "label": "6673", "split_label": "6 6 7 3"}
+{"text": "What is three thousand eight hundred sixty six ?", "magnitude": 4, "label": "3866", "split_label": "3 8 6 6"}
+{"text": "What is nine thousand sixty one ?", "magnitude": 4, "label": "9061", "split_label": "9 0 6 1"}
+{"text": "What is three thousand seven hundred thirty two ?", "magnitude": 4, "label": "3732", "split_label": "3 7 3 2"}
+{"text": "What is three thousand seven hundred eighty nine ?", "magnitude": 4, "label": "3789", "split_label": "3 7 8 9"}
+{"text": "What is three thousand fifty nine ?", "magnitude": 4, "label": "3059", "split_label": "3 0 5 9"}
+{"text": "What is three thousand one hundred fifty two ?", "magnitude": 4, "label": "3152", "split_label": "3 1 5 2"}
+{"text": "What is six thousand ninety five ?", "magnitude": 4, "label": "6095", "split_label": "6 0 9 5"}
+{"text": "What is one thousand twenty three ?", "magnitude": 4, "label": "1023", "split_label": "1 0 2 3"}
+{"text": "What is nine thousand seventy seven ?", "magnitude": 4, "label": "9077", "split_label": "9 0 7 7"}
+{"text": "What is five thousand eight hundred fifteen ?", "magnitude": 4, "label": "5815", "split_label": "5 8 1 5"}
+{"text": "What is eight thousand four hundred twelve ?", "magnitude": 4, "label": "8412", "split_label": "8 4 1 2"}
+{"text": "What is seven thousand ninety six ?", "magnitude": 4, "label": "7096", "split_label": "7 0 9 6"}
+{"text": "What is four thousand seventy one ?", "magnitude": 4, "label": "4071", "split_label": "4 0 7 1"}
+{"text": "What is nine thousand fifty two ?", "magnitude": 4, "label": "9052", "split_label": "9 0 5 2"}
+{"text": "What is two thousand seven hundred nineteen ?", "magnitude": 4, "label": "2719", "split_label": "2 7 1 9"}
+{"text": "What is six thousand five hundred eighty five ?", "magnitude": 4, "label": "6585", "split_label": "6 5 8 5"}
+{"text": "What is three thousand ninety three ?", "magnitude": 4, "label": "3093", "split_label": "3 0 9 3"}
+{"text": "What is six thousand seventy seven ?", "magnitude": 4, "label": "6077", "split_label": "6 0 7 7"}
+{"text": "What is seven thousand four hundred twenty eight ?", "magnitude": 4, "label": "7428", "split_label": "7 4 2 8"}
+{"text": "What is three thousand three hundred forty ?", "magnitude": 4, "label": "3340", "split_label": "3 3 4 0"}
+{"text": "What is seven thousand one hundred twenty eight ?", "magnitude": 4, "label": "7128", "split_label": "7 1 2 8"}
+{"text": "What is seven hundred seventy four ?", "magnitude": 3, "label": "774", "split_label": "7 7 4"}
+{"text": "What is two thousand eight hundred eighty ?", "magnitude": 4, "label": "2880", "split_label": "2 8 8 0"}
+{"text": "What is six thousand six hundred seventy five ?", "magnitude": 4, "label": "6675", "split_label": "6 6 7 5"}
+{"text": "What is five thousand seventy three ?", "magnitude": 4, "label": "5073", "split_label": "5 0 7 3"}
+{"text": "What is seven thousand six hundred seventy eight ?", "magnitude": 4, "label": "7678", "split_label": "7 6 7 8"}
+{"text": "What is one thousand ninety nine ?", "magnitude": 4, "label": "1099", "split_label": "1 0 9 9"}
+{"text": "What is seven thousand forty one ?", "magnitude": 4, "label": "7041", "split_label": "7 0 4 1"}
+{"text": "What is two thousand sixty seven ?", "magnitude": 4, "label": "2067", "split_label": "2 0 6 7"}
+{"text": "What is forty ?", "magnitude": 2, "label": "40", "split_label": "4 0"}
+{"text": "What is twelve ?", "magnitude": 2, "label": "12", "split_label": "1 2"}
+{"text": "What is two thousand seven hundred thirty eight ?", "magnitude": 4, "label": "2738", "split_label": "2 7 3 8"}
+{"text": "What is seven thousand seven hundred seventeen ?", "magnitude": 4, "label": "7717", "split_label": "7 7 1 7"}
+{"text": "What is seven thousand ?", "magnitude": 4, "label": "7000", "split_label": "7 0 0 0"}
+{"text": "What is nine thousand one hundred fifty ?", "magnitude": 4, "label": "9150", "split_label": "9 1 5 0"}
+{"text": "What is two thousand four hundred fifty nine ?", "magnitude": 4, "label": "2459", "split_label": "2 4 5 9"}
+{"text": "What is six thousand five hundred twenty three ?", "magnitude": 4, "label": "6523", "split_label": "6 5 2 3"}
+{"text": "What is eight thousand seven ?", "magnitude": 4, "label": "8007", "split_label": "8 0 0 7"}
+{"text": "What is five thousand seventy seven ?", "magnitude": 4, "label": "5077", "split_label": "5 0 7 7"}
+{"text": "What is six thousand seventeen ?", "magnitude": 4, "label": "6017", "split_label": "6 0 1 7"}
+{"text": "What is four thousand three hundred eighty six ?", "magnitude": 4, "label": "4386", "split_label": "4 3 8 6"}
+{"text": "What is two thousand four hundred one ?", "magnitude": 4, "label": "2401", "split_label": "2 4 0 1"}
+{"text": "What is six thousand three hundred eighty six ?", "magnitude": 4, "label": "6386", "split_label": "6 3 8 6"}
+{"text": "What is one thousand six hundred sixty two ?", "magnitude": 4, "label": "1662", "split_label": "1 6 6 2"}
+{"text": "What is nine thousand four hundred twenty eight ?", "magnitude": 4, "label": "9428", "split_label": "9 4 2 8"}
+{"text": "What is eight thousand three ?", "magnitude": 4, "label": "8003", "split_label": "8 0 0 3"}
+{"text": "What is seven thousand seventy one ?", "magnitude": 4, "label": "7071", "split_label": "7 0 7 1"}
+{"text": "What is four thousand thirty seven ?", "magnitude": 4, "label": "4037", "split_label": "4 0 3 7"}
+{"text": "What is three thousand one hundred fifty six ?", "magnitude": 4, "label": "3156", "split_label": "3 1 5 6"}
+{"text": "What is two thousand thirty eight ?", "magnitude": 4, "label": "2038", "split_label": "2 0 3 8"}
+{"text": "What is one thousand one hundred seventy five ?", "magnitude": 4, "label": "1175", "split_label": "1 1 7 5"}
+{"text": "What is seven thousand eight hundred eighty ?", "magnitude": 4, "label": "7880", "split_label": "7 8 8 0"}
+{"text": "What is one thousand four hundred thirty six ?", "magnitude": 4, "label": "1436", "split_label": "1 4 3 6"}
+{"text": "What is three thousand fifty ?", "magnitude": 4, "label": "3050", "split_label": "3 0 5 0"}
+{"text": "What is three thousand seven hundred forty five ?", "magnitude": 4, "label": "3745", "split_label": "3 7 4 5"}
+{"text": "What is two thousand forty ?", "magnitude": 4, "label": "2040", "split_label": "2 0 4 0"}
+{"text": "What is seven thousand sixty one ?", "magnitude": 4, "label": "7061", "split_label": "7 0 6 1"}
+{"text": "What is nine thousand nine hundred eighty four ?", "magnitude": 4, "label": "9984", "split_label": "9 9 8 4"}
+{"text": "What is three thousand six hundred fifty seven ?", "magnitude": 4, "label": "3657", "split_label": "3 6 5 7"}
+{"text": "What is six thousand seven hundred seventy nine ?", "magnitude": 4, "label": "6779", "split_label": "6 7 7 9"}
+{"text": "What is seven thousand sixty five ?", "magnitude": 4, "label": "7065", "split_label": "7 0 6 5"}
+{"text": "What is six thousand four hundred ten ?", "magnitude": 4, "label": "6410", "split_label": "6 4 1 0"}
+{"text": "What is three thousand forty five ?", "magnitude": 4, "label": "3045", "split_label": "3 0 4 5"}
+{"text": "What is four thousand nine hundred eleven ?", "magnitude": 4, "label": "4911", "split_label": "4 9 1 1"}
+{"text": "What is nine thousand ninety three ?", "magnitude": 4, "label": "9093", "split_label": "9 0 9 3"}
+{"text": "What is one thousand seven hundred one ?", "magnitude": 4, "label": "1701", "split_label": "1 7 0 1"}
+{"text": "What is five thousand thirty five ?", "magnitude": 4, "label": "5035", "split_label": "5 0 3 5"}
+{"text": "What is six thousand forty five ?", "magnitude": 4, "label": "6045", "split_label": "6 0 4 5"}
+{"text": "What is five thousand seventy four ?", "magnitude": 4, "label": "5074", "split_label": "5 0 7 4"}
+{"text": "What is nine thousand five hundred ninety two ?", "magnitude": 4, "label": "9592", "split_label": "9 5 9 2"}
+{"text": "What is eight thousand eighty nine ?", "magnitude": 4, "label": "8089", "split_label": "8 0 8 9"}
+{"text": "What is nine thousand four hundred thirty nine ?", "magnitude": 4, "label": "9439", "split_label": "9 4 3 9"}
+{"text": "What is nine thousand thirty two ?", "magnitude": 4, "label": "9032", "split_label": "9 0 3 2"}
+{"text": "What is two hundred sixty six ?", "magnitude": 3, "label": "266", "split_label": "2 6 6"}
+{"text": "What is five thousand two hundred ninety ?", "magnitude": 4, "label": "5290", "split_label": "5 2 9 0"}
+{"text": "What is eight thousand seventy six ?", "magnitude": 4, "label": "8076", "split_label": "8 0 7 6"}
+{"text": "What is nine thousand five ?", "magnitude": 4, "label": "9005", "split_label": "9 0 0 5"}
+{"text": "What is four thousand five ?", "magnitude": 4, "label": "4005", "split_label": "4 0 0 5"}
+{"text": "What is nine thousand ninety five ?", "magnitude": 4, "label": "9095", "split_label": "9 0 9 5"}
+{"text": "What is three thousand seven hundred eleven ?", "magnitude": 4, "label": "3711", "split_label": "3 7 1 1"}
+{"text": "What is two thousand forty three ?", "magnitude": 4, "label": "2043", "split_label": "2 0 4 3"}
+{"text": "What is six hundred sixty nine ?", "magnitude": 3, "label": "669", "split_label": "6 6 9"}
+{"text": "What is one thousand fifty seven ?", "magnitude": 4, "label": "1057", "split_label": "1 0 5 7"}
+{"text": "What is six thousand three hundred ninety eight ?", "magnitude": 4, "label": "6398", "split_label": "6 3 9 8"}
+{"text": "What is nine hundred eighty one ?", "magnitude": 3, "label": "981", "split_label": "9 8 1"}
+{"text": "What is two thousand three hundred thirty four ?", "magnitude": 4, "label": "2334", "split_label": "2 3 3 4"}
+{"text": "What is four thousand five hundred forty five ?", "magnitude": 4, "label": "4545", "split_label": "4 5 4 5"}
+{"text": "What is one thousand two hundred twenty three ?", "magnitude": 4, "label": "1223", "split_label": "1 2 2 3"}
+{"text": "What is one thousand eight hundred ninety eight ?", "magnitude": 4, "label": "1898", "split_label": "1 8 9 8"}
+{"text": "What is five thousand four hundred ninety three ?", "magnitude": 4, "label": "5493", "split_label": "5 4 9 3"}
+{"text": "What is six thousand nine ?", "magnitude": 4, "label": "6009", "split_label": "6 0 0 9"}
+{"text": "What is three thousand one hundred eighty ?", "magnitude": 4, "label": "3180", "split_label": "3 1 8 0"}
+{"text": "What is seven thousand twenty four ?", "magnitude": 4, "label": "7024", "split_label": "7 0 2 4"}
+{"text": "What is two thousand fifty nine ?", "magnitude": 4, "label": "2059", "split_label": "2 0 5 9"}
+{"text": "What is six thousand six hundred seventy nine ?", "magnitude": 4, "label": "6679", "split_label": "6 6 7 9"}
+{"text": "What is eight thousand fifty three ?", "magnitude": 4, "label": "8053", "split_label": "8 0 5 3"}
+{"text": "What is three hundred eighty nine ?", "magnitude": 3, "label": "389", "split_label": "3 8 9"}
+{"text": "What is four thousand forty nine ?", "magnitude": 4, "label": "4049", "split_label": "4 0 4 9"}
+{"text": "What is one thousand seven hundred seventy four ?", "magnitude": 4, "label": "1774", "split_label": "1 7 7 4"}
+{"text": "What is four thousand two hundred five ?", "magnitude": 4, "label": "4205", "split_label": "4 2 0 5"}
+{"text": "What is six thousand eight ?", "magnitude": 4, "label": "6008", "split_label": "6 0 0 8"}
+{"text": "What is two thousand thirty seven ?", "magnitude": 4, "label": "2037", "split_label": "2 0 3 7"}
+{"text": "What is six thousand nine hundred seventy three ?", "magnitude": 4, "label": "6973", "split_label": "6 9 7 3"}
+{"text": "What is six thousand seventy eight ?", "magnitude": 4, "label": "6078", "split_label": "6 0 7 8"}
+{"text": "What is two thousand one hundred sixty nine ?", "magnitude": 4, "label": "2169", "split_label": "2 1 6 9"}
+{"text": "What is four thousand one hundred forty three ?", "magnitude": 4, "label": "4143", "split_label": "4 1 4 3"}
+{"text": "What is eight thousand ninety one ?", "magnitude": 4, "label": "8091", "split_label": "8 0 9 1"}
+{"text": "What is five thousand fifty two ?", "magnitude": 4, "label": "5052", "split_label": "5 0 5 2"}
+{"text": "What is eight thousand nine hundred ninety eight ?", "magnitude": 4, "label": "8998", "split_label": "8 9 9 8"}
+{"text": "What is two thousand thirty one ?", "magnitude": 4, "label": "2031", "split_label": "2 0 3 1"}
+{"text": "What is eight thousand eighty ?", "magnitude": 4, "label": "8080", "split_label": "8 0 8 0"}
+{"text": "What is four thousand nine hundred sixty two ?", "magnitude": 4, "label": "4962", "split_label": "4 9 6 2"}
+{"text": "What is four thousand eight hundred seventy five ?", "magnitude": 4, "label": "4875", "split_label": "4 8 7 5"}
+{"text": "What is five thousand one hundred seventy six ?", "magnitude": 4, "label": "5176", "split_label": "5 1 7 6"}
+{"text": "What is five thousand seven hundred twelve ?", "magnitude": 4, "label": "5712", "split_label": "5 7 1 2"}
+{"text": "What is three thousand fifty three ?", "magnitude": 4, "label": "3053", "split_label": "3 0 5 3"}
+{"text": "What is four thousand forty three ?", "magnitude": 4, "label": "4043", "split_label": "4 0 4 3"}
+{"text": "What is seven thousand four hundred fifty three ?", "magnitude": 4, "label": "7453", "split_label": "7 4 5 3"}
+{"text": "What is nine thousand five hundred thirty nine ?", "magnitude": 4, "label": "9539", "split_label": "9 5 3 9"}
+{"text": "What is six thousand two hundred fifty three ?", "magnitude": 4, "label": "6253", "split_label": "6 2 5 3"}
+{"text": "What is two thousand fifteen ?", "magnitude": 4, "label": "2015", "split_label": "2 0 1 5"}
+{"text": "What is nine thousand twenty one ?", "magnitude": 4, "label": "9021", "split_label": "9 0 2 1"}
+{"text": "What is two thousand four hundred thirty four ?", "magnitude": 4, "label": "2434", "split_label": "2 4 3 4"}
+{"text": "What is three thousand sixty three ?", "magnitude": 4, "label": "3063", "split_label": "3 0 6 3"}
+{"text": "What is four thousand one hundred twenty nine ?", "magnitude": 4, "label": "4129", "split_label": "4 1 2 9"}
+{"text": "What is two thousand ninety six ?", "magnitude": 4, "label": "2096", "split_label": "2 0 9 6"}
+{"text": "What is nine thousand sixty ?", "magnitude": 4, "label": "9060", "split_label": "9 0 6 0"}
+{"text": "What is one thousand ninety ?", "magnitude": 4, "label": "1090", "split_label": "1 0 9 0"}
+{"text": "What is nine thousand sixty four ?", "magnitude": 4, "label": "9064", "split_label": "9 0 6 4"}
+{"text": "What is nine thousand forty three ?", "magnitude": 4, "label": "9043", "split_label": "9 0 4 3"}
+{"text": "What is three thousand six ?", "magnitude": 4, "label": "3006", "split_label": "3 0 0 6"}
+{"text": "What is seven thousand forty four ?", "magnitude": 4, "label": "7044", "split_label": "7 0 4 4"}
+{"text": "What is seven thousand ten ?", "magnitude": 4, "label": "7010", "split_label": "7 0 1 0"}
+{"text": "What is six thousand nine hundred eighty one ?", "magnitude": 4, "label": "6981", "split_label": "6 9 8 1"}
+{"text": "What is one thousand three hundred seventeen ?", "magnitude": 4, "label": "1317", "split_label": "1 3 1 7"}
+{"text": "What is seven thousand three hundred forty eight ?", "magnitude": 4, "label": "7348", "split_label": "7 3 4 8"}
+{"text": "What is four thousand sixty four ?", "magnitude": 4, "label": "4064", "split_label": "4 0 6 4"}
+{"text": "What is one thousand fifteen ?", "magnitude": 4, "label": "1015", "split_label": "1 0 1 5"}
+{"text": "What is three thousand fifty five ?", "magnitude": 4, "label": "3055", "split_label": "3 0 5 5"}
+{"text": "What is two thousand thirty six ?", "magnitude": 4, "label": "2036", "split_label": "2 0 3 6"}
+{"text": "What is five thousand three hundred seventy one ?", "magnitude": 4, "label": "5371", "split_label": "5 3 7 1"}
+{"text": "What is seven thousand fifty two ?", "magnitude": 4, "label": "7052", "split_label": "7 0 5 2"}
+{"text": "What is eight thousand twenty six ?", "magnitude": 4, "label": "8026", "split_label": "8 0 2 6"}
+{"text": "What is six thousand nine hundred thirty three ?", "magnitude": 4, "label": "6933", "split_label": "6 9 3 3"}
+{"text": "What is seven hundred two ?", "magnitude": 3, "label": "702", "split_label": "7 0 2"}
+{"text": "What is one thousand nine hundred ninety nine ?", "magnitude": 4, "label": "1999", "split_label": "1 9 9 9"}
+{"text": "What is two thousand two hundred seventy ?", "magnitude": 4, "label": "2270", "split_label": "2 2 7 0"}
+{"text": "What is six thousand fifteen ?", "magnitude": 4, "label": "6015", "split_label": "6 0 1 5"}
+{"text": "What is three thousand ninety ?", "magnitude": 4, "label": "3090", "split_label": "3 0 9 0"}
+{"text": "What is four thousand nine hundred forty ?", "magnitude": 4, "label": "4940", "split_label": "4 9 4 0"}
+{"text": "What is six thousand fifty ?", "magnitude": 4, "label": "6050", "split_label": "6 0 5 0"}
+{"text": "What is seven thousand eight hundred thirty two ?", "magnitude": 4, "label": "7832", "split_label": "7 8 3 2"}
+{"text": "What is six thousand nine hundred ninety five ?", "magnitude": 4, "label": "6995", "split_label": "6 9 9 5"}
+{"text": "What is eight thousand six hundred eleven ?", "magnitude": 4, "label": "8611", "split_label": "8 6 1 1"}
+{"text": "What is four thousand seven hundred sixty seven ?", "magnitude": 4, "label": "4767", "split_label": "4 7 6 7"}
+{"text": "What is one thousand three hundred fifty four ?", "magnitude": 4, "label": "1354", "split_label": "1 3 5 4"}
+{"text": "What is eight thousand eight hundred fifty two ?", "magnitude": 4, "label": "8852", "split_label": "8 8 5 2"}
+{"text": "What is seven thousand fifty one ?", "magnitude": 4, "label": "7051", "split_label": "7 0 5 1"}
+{"text": "What is one thousand eight hundred ninety nine ?", "magnitude": 4, "label": "1899", "split_label": "1 8 9 9"}
+{"text": "What is eight thousand seven hundred twenty nine ?", "magnitude": 4, "label": "8729", "split_label": "8 7 2 9"}
+{"text": "What is nine thousand nine hundred sixty two ?", "magnitude": 4, "label": "9962", "split_label": "9 9 6 2"}
+{"text": "What is three thousand nine hundred sixty three ?", "magnitude": 4, "label": "3963", "split_label": "3 9 6 3"}
+{"text": "What is six thousand three hundred eighty four ?", "magnitude": 4, "label": "6384", "split_label": "6 3 8 4"}
+{"text": "What is one thousand six hundred seventy eight ?", "magnitude": 4, "label": "1678", "split_label": "1 6 7 8"}
+{"text": "What is seven thousand eighty ?", "magnitude": 4, "label": "7080", "split_label": "7 0 8 0"}
+{"text": "What is five thousand ninety one ?", "magnitude": 4, "label": "5091", "split_label": "5 0 9 1"}
+{"text": "What is one thousand twenty two ?", "magnitude": 4, "label": "1022", "split_label": "1 0 2 2"}
+{"text": "What is two thousand ?", "magnitude": 4, "label": "2000", "split_label": "2 0 0 0"}
+{"text": "What is nine thousand thirty four ?", "magnitude": 4, "label": "9034", "split_label": "9 0 3 4"}
+{"text": "What is five thousand one hundred thirty nine ?", "magnitude": 4, "label": "5139", "split_label": "5 1 3 9"}
+{"text": "What is two thousand thirty two ?", "magnitude": 4, "label": "2032", "split_label": "2 0 3 2"}
+{"text": "What is five thousand seven hundred sixty three ?", "magnitude": 4, "label": "5763", "split_label": "5 7 6 3"}
+{"text": "What is one thousand four hundred twenty nine ?", "magnitude": 4, "label": "1429", "split_label": "1 4 2 9"}
+{"text": "What is six thousand seven hundred ninety seven ?", "magnitude": 4, "label": "6797", "split_label": "6 7 9 7"}
+{"text": "What is six thousand eighty six ?", "magnitude": 4, "label": "6086", "split_label": "6 0 8 6"}
+{"text": "What is four thousand ninety three ?", "magnitude": 4, "label": "4093", "split_label": "4 0 9 3"}
+{"text": "What is two thousand sixty six ?", "magnitude": 4, "label": "2066", "split_label": "2 0 6 6"}
+{"text": "What is eight thousand eighty one ?", "magnitude": 4, "label": "8081", "split_label": "8 0 8 1"}
+{"text": "What is five thousand ninety ?", "magnitude": 4, "label": "5090", "split_label": "5 0 9 0"}
+{"text": "What is three thousand eighty one ?", "magnitude": 4, "label": "3081", "split_label": "3 0 8 1"}
+{"text": "What is three thousand nine hundred ten ?", "magnitude": 4, "label": "3910", "split_label": "3 9 1 0"}
+{"text": "What is eight thousand thirty two ?", "magnitude": 4, "label": "8032", "split_label": "8 0 3 2"}
+{"text": "What is one thousand nine hundred forty seven ?", "magnitude": 4, "label": "1947", "split_label": "1 9 4 7"}
+{"text": "What is seven thousand forty two ?", "magnitude": 4, "label": "7042", "split_label": "7 0 4 2"}
+{"text": "What is four thousand seven hundred sixty five ?", "magnitude": 4, "label": "4765", "split_label": "4 7 6 5"}
+{"text": "What is nine thousand thirty six ?", "magnitude": 4, "label": "9036", "split_label": "9 0 3 6"}
+{"text": "What is two thousand four hundred fifty one ?", "magnitude": 4, "label": "2451", "split_label": "2 4 5 1"}
+{"text": "What is four thousand fifty three ?", "magnitude": 4, "label": "4053", "split_label": "4 0 5 3"}
+{"text": "What is five thousand two hundred eighty seven ?", "magnitude": 4, "label": "5287", "split_label": "5 2 8 7"}
+{"text": "What is five thousand forty six ?", "magnitude": 4, "label": "5046", "split_label": "5 0 4 6"}
+{"text": "What is three thousand five hundred eighty eight ?", "magnitude": 4, "label": "3588", "split_label": "3 5 8 8"}
+{"text": "What is two ?", "magnitude": 1, "label": "2", "split_label": "2"}
+{"text": "What is four thousand four hundred forty four ?", "magnitude": 4, "label": "4444", "split_label": "4 4 4 4"}
+{"text": "What is eight thousand two hundred forty four ?", "magnitude": 4, "label": "8244", "split_label": "8 2 4 4"}
+{"text": "What is seven ?", "magnitude": 1, "label": "7", "split_label": "7"}
+{"text": "What is thirteen ?", "magnitude": 2, "label": "13", "split_label": "1 3"}
+{"text": "What is two thousand two hundred eighty four ?", "magnitude": 4, "label": "2284", "split_label": "2 2 8 4"}
+{"text": "What is three thousand twenty five ?", "magnitude": 4, "label": "3025", "split_label": "3 0 2 5"}
+{"text": "What is four thousand sixty nine ?", "magnitude": 4, "label": "4069", "split_label": "4 0 6 9"}
+{"text": "What is one thousand fifty six ?", "magnitude": 4, "label": "1056", "split_label": "1 0 5 6"}
+{"text": "What is eight thousand six hundred twenty ?", "magnitude": 4, "label": "8620", "split_label": "8 6 2 0"}
+{"text": "What is four hundred eighty three ?", "magnitude": 3, "label": "483", "split_label": "4 8 3"}
+{"text": "What is five hundred fifty five ?", "magnitude": 3, "label": "555", "split_label": "5 5 5"}
+{"text": "What is six thousand two hundred fifty two ?", "magnitude": 4, "label": "6252", "split_label": "6 2 5 2"}
+{"text": "What is sixteen ?", "magnitude": 2, "label": "16", "split_label": "1 6"}
+{"text": "What is three thousand eight hundred ninety eight ?", "magnitude": 4, "label": "3898", "split_label": "3 8 9 8"}
+{"text": "What is six thousand forty three ?", "magnitude": 4, "label": "6043", "split_label": "6 0 4 3"}
+{"text": "What is one thousand seventy three ?", "magnitude": 4, "label": "1073", "split_label": "1 0 7 3"}
+{"text": "What is one thousand thirty nine ?", "magnitude": 4, "label": "1039", "split_label": "1 0 3 9"}
+{"text": "What is eight hundred fifty four ?", "magnitude": 3, "label": "854", "split_label": "8 5 4"}
+{"text": "What is five thousand eight hundred one ?", "magnitude": 4, "label": "5801", "split_label": "5 8 0 1"}
+{"text": "What is eight thousand forty seven ?", "magnitude": 4, "label": "8047", "split_label": "8 0 4 7"}
+{"text": "What is two thousand two hundred forty eight ?", "magnitude": 4, "label": "2248", "split_label": "2 2 4 8"}
+{"text": "What is three thousand three hundred eighteen ?", "magnitude": 4, "label": "3318", "split_label": "3 3 1 8"}
+{"text": "What is two thousand seventy one ?", "magnitude": 4, "label": "2071", "split_label": "2 0 7 1"}
+{"text": "What is three thousand four hundred fifty five ?", "magnitude": 4, "label": "3455", "split_label": "3 4 5 5"}
+{"text": "What is eight thousand two hundred sixteen ?", "magnitude": 4, "label": "8216", "split_label": "8 2 1 6"}
+{"text": "What is three thousand ninety two ?", "magnitude": 4, "label": "3092", "split_label": "3 0 9 2"}
+{"text": "What is nine thousand four hundred seventy one ?", "magnitude": 4, "label": "9471", "split_label": "9 4 7 1"}
+{"text": "What is four thousand eight hundred eighty ?", "magnitude": 4, "label": "4880", "split_label": "4 8 8 0"}
+{"text": "What is two thousand one hundred one ?", "magnitude": 4, "label": "2101", "split_label": "2 1 0 1"}
+{"text": "What is nine ?", "magnitude": 1, "label": "9", "split_label": "9"}
+{"text": "What is eight thousand nine hundred thirty ?", "magnitude": 4, "label": "8930", "split_label": "8 9 3 0"}
+{"text": "What is eight hundred ?", "magnitude": 3, "label": "800", "split_label": "8 0 0"}
+{"text": "What is seven thousand five hundred fifty two ?", "magnitude": 4, "label": "7552", "split_label": "7 5 5 2"}
+{"text": "What is seven hundred three ?", "magnitude": 3, "label": "703", "split_label": "7 0 3"}
+{"text": "What is two thousand five hundred fifty six ?", "magnitude": 4, "label": "2556", "split_label": "2 5 5 6"}
+{"text": "What is seven thousand eighteen ?", "magnitude": 4, "label": "7018", "split_label": "7 0 1 8"}
+{"text": "What is nine thousand seven hundred thirty one ?", "magnitude": 4, "label": "9731", "split_label": "9 7 3 1"}
+{"text": "What is eight thousand two ?", "magnitude": 4, "label": "8002", "split_label": "8 0 0 2"}
+{"text": "What is six thousand six hundred ?", "magnitude": 4, "label": "6600", "split_label": "6 6 0 0"}
+{"text": "What is five thousand ninety six ?", "magnitude": 4, "label": "5096", "split_label": "5 0 9 6"}
+{"text": "What is nine thousand five hundred ten ?", "magnitude": 4, "label": "9510", "split_label": "9 5 1 0"}
+{"text": "What is nine thousand six hundred twenty seven ?", "magnitude": 4, "label": "9627", "split_label": "9 6 2 7"}
+{"text": "What is seven thousand two hundred sixty ?", "magnitude": 4, "label": "7260", "split_label": "7 2 6 0"}
+{"text": "What is five thousand two ?", "magnitude": 4, "label": "5002", "split_label": "5 0 0 2"}
+{"text": "What is seven thousand eleven ?", "magnitude": 4, "label": "7011", "split_label": "7 0 1 1"}
+{"text": "What is six thousand fifty one ?", "magnitude": 4, "label": "6051", "split_label": "6 0 5 1"}
+{"text": "What is five thousand six hundred fifty nine ?", "magnitude": 4, "label": "5659", "split_label": "5 6 5 9"}
+{"text": "What is four thousand one hundred twenty six ?", "magnitude": 4, "label": "4126", "split_label": "4 1 2 6"}
+{"text": "What is ten ?", "magnitude": 2, "label": "10", "split_label": "1 0"}
